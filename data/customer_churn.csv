@@ -1,0 +1,2001 @@
+customer_id,tenure_months,monthly_charges,total_charges,support_calls,contract,payment_method,internet_service,region,satisfaction,churned
+C00001,53,60.56,3165.32,1,one-year,electronic check,dsl,East,medium,0
+C00002,72,65.73,4678.41,3,month-to-month,bank transfer,fibre,South,low,0
+C00003,39,18.7,730.76,1,two-year,mailed check,none,North,high,0
+C00004,31,103.21,3073.71,2,one-year,electronic check,fibre,North,medium,1
+C00005,18,38.0,678.87,0,month-to-month,card,dsl,East,high,0
+C00006,55,,3698.01,1,two-year,mailed check,fibre,East,high,0
+C00007,41,66.31,2718.22,2,one-year,bank transfer,dsl,East,,0
+C00008,20,74.83,1446.59,2,one-year,card,fibre,North,low,0
+C00009,1,65.82,64.92,2,month-to-month,card,fibre,East,low,1
+C00010,18,73.34,1312.59,2,month-to-month,electronic check,dsl,North,medium,0
+C00011,3,85.53,260.92,1,month-to-month,card,fibre,North,medium,0
+C00012,38,75.42,2980.82,1,two-year,card,fibre,South,,0
+C00013,34,18.0,615.08,1,one-year,card,none,East,high,0
+C00014,33,104.57,3511.67,1,two-year,bank transfer,fibre,East,medium,0
+C00015,30,54.71,1571.9,1,month-to-month,bank transfer,dsl,West,medium,0
+C00016,15,71.77,1125.48,0,month-to-month,bank transfer,dsl,West,low,1
+C00017,19,90.72,1691.83,4,one-year,card,fibre,South,medium,1
+C00018,1,48.75,48.04,2,month-to-month,card,dsl,West,medium,0
+C00019,36,73.84,2584.56,3,two-year,electronic check,fibre,North,low,0
+C00020,25,72.36,1733.87,1,one-year,bank transfer,dsl,West,medium,0
+C00021,34,97.55,3412.9,0,one-year,electronic check,fibre,South,medium,0
+C00022,3,57.48,167.97,2,month-to-month,card,fibre,West,low,0
+C00023,44,86.6,3727.6,2,two-year,card,fibre,West,medium,0
+C00024,43,,980.43,1,two-year,card,none,East,low,0
+C00025,29,42.6,1294.07,1,one-year,,dsl,West,medium,0
+C00026,48,28.14,1388.68,1,month-to-month,bank transfer,none,North,low,0
+C00027,14,38.8,566.55,1,month-to-month,electronic check,dsl,North,low,1
+C00028,1,49.4,51.19,1,month-to-month,bank transfer,dsl,East,low,0
+C00029,17,45.42,803.51,0,month-to-month,,dsl,East,medium,0
+C00030,20,19.0,379.2,1,one-year,electronic check,none,North,low,0
+C00031,26,54.14,1361.26,2,one-year,card,dsl,East,medium,1
+C00032,39,67.81,2598.81,3,two-year,bank transfer,fibre,North,medium,0
+C00033,9,73.88,651.12,1,month-to-month,bank transfer,dsl,West,high,1
+C00034,4,60.92,248.97,0,month-to-month,bank transfer,dsl,North,high,1
+C00035,26,101.53,2514.57,0,month-to-month,card,fibre,South,,0
+C00036,16,78.08,,1,month-to-month,electronic check,fibre,West,medium,0
+C00037,10,73.41,747.53,1,month-to-month,mailed check,fibre,East,,0
+C00038,38,76.1,2782.91,2,month-to-month,card,dsl,East,medium,1
+C00039,14,73.06,,0,month-to-month,electronic check,fibre,East,medium,1
+C00040,31,52.86,1574.62,1,one-year,electronic check,dsl,West,medium,0
+C00041,7,88.64,632.31,2,month-to-month,card,fibre,South,low,1
+C00042,45,40.15,1741.59,0,two-year,electronic check,dsl,West,high,0
+C00043,25,88.54,2135.21,4,one-year,electronic check,fibre,East,,1
+C00044,19,32.0,591.6,1,month-to-month,mailed check,none,West,high,0
+C00045,38,70.23,2735.7,2,two-year,mailed check,dsl,East,medium,0
+C00046,41,90.68,3606.47,3,two-year,card,fibre,North,low,0
+C00047,26,95.6,2370.11,2,month-to-month,bank transfer,fibre,East,high,0
+C00048,1,78.67,81.86,3,month-to-month,bank transfer,fibre,West,low,1
+C00049,22,69.65,1589.96,2,one-year,card,fibre,North,high,1
+C00050,17,80.32,1322.4,3,month-to-month,bank transfer,dsl,West,low,1
+C00051,3,18.0,52.73,1,month-to-month,mailed check,none,North,medium,0
+C00052,14,37.88,513.8,3,month-to-month,card,dsl,West,medium,0
+C00053,42,61.78,2651.72,0,one-year,bank transfer,dsl,West,high,0
+C00054,22,99.5,2134.28,2,one-year,electronic check,fibre,North,low,1
+C00055,21,57.27,1254.56,4,one-year,bank transfer,dsl,East,low,0
+C00056,35,66.99,2421.47,1,one-year,bank transfer,dsl,North,medium,1
+C00057,7,56.05,395.82,1,month-to-month,mailed check,fibre,East,medium,1
+C00058,19,19.01,343.45,1,one-year,bank transfer,none,West,low,0
+C00059,6,57.51,358.3,0,month-to-month,card,fibre,North,medium,1
+C00060,6,64.36,394.96,0,month-to-month,card,dsl,North,low,1
+C00061,36,18.0,666.66,1,one-year,mailed check,none,South,medium,0
+C00062,48,39.67,1822.63,0,month-to-month,card,dsl,South,medium,0
+C00063,28,86.17,2463.08,0,one-year,bank transfer,fibre,North,high,0
+C00064,29,67.74,2024.3,1,one-year,card,dsl,South,medium,0
+C00065,25,78.09,2041.4,1,one-year,bank transfer,fibre,South,,1
+C00066,22,61.84,1371.43,0,one-year,mailed check,dsl,North,medium,0
+C00067,61,86.45,5277.69,0,one-year,bank transfer,fibre,South,low,0
+C00068,5,52.41,260.1,1,month-to-month,mailed check,dsl,North,medium,0
+C00069,48,18.0,881.39,0,month-to-month,card,none,West,high,1
+C00070,7,86.78,633.02,0,month-to-month,bank transfer,fibre,West,high,1
+C00071,72,87.36,6352.67,2,month-to-month,mailed check,fibre,South,medium,0
+C00072,6,65.73,383.62,3,month-to-month,bank transfer,dsl,West,low,1
+C00073,33,83.74,2630.11,4,two-year,card,fibre,South,medium,0
+C00074,71,65.98,4740.38,2,month-to-month,mailed check,fibre,West,medium,0
+C00075,24,88.28,2195.97,0,month-to-month,bank transfer,fibre,North,high,1
+C00076,25,79.98,1912.72,2,month-to-month,bank transfer,fibre,South,medium,0
+C00077,61,49.21,2971.06,1,month-to-month,mailed check,dsl,East,low,0
+C00078,35,51.46,1880.36,0,one-year,card,dsl,North,high,0
+C00079,24,71.72,1721.57,3,one-year,bank transfer,fibre,West,low,1
+C00080,29,65.67,1851.23,0,one-year,card,dsl,South,high,0
+C00081,21,62.98,1303.22,1,one-year,bank transfer,fibre,South,medium,0
+C00082,17,68.08,1146.73,1,month-to-month,card,fibre,South,medium,0
+C00083,40,51.05,1963.85,0,two-year,electronic check,dsl,West,high,0
+C00084,2,99.37,201.94,1,month-to-month,card,fibre,North,medium,0
+C00085,10,67.65,682.73,0,month-to-month,electronic check,dsl,West,medium,1
+C00086,5,18.0,91.33,1,month-to-month,card,none,West,medium,0
+C00087,45,71.22,3240.41,2,one-year,bank transfer,dsl,West,low,0
+C00088,11,71.19,745.24,2,month-to-month,bank transfer,dsl,West,medium,0
+C00089,20,65.91,1275.29,4,month-to-month,electronic check,fibre,West,high,0
+C00090,17,49.74,817.3,1,month-to-month,bank transfer,fibre,East,high,0
+C00091,4,79.13,303.79,2,month-to-month,bank transfer,fibre,South,medium,0
+C00092,57,68.47,3994.69,0,one-year,mailed check,dsl,South,,0
+C00093,3,74.1,213.86,1,month-to-month,electronic check,dsl,West,low,1
+C00094,6,69.55,424.32,1,month-to-month,card,fibre,South,high,1
+C00095,1,101.02,97.77,1,month-to-month,mailed check,fibre,East,medium,1
+C00096,36,53.26,1844.18,2,one-year,bank transfer,fibre,North,high,0
+C00097,3,50.58,146.62,1,month-to-month,card,dsl,South,high,0
+C00098,25,49.99,1250.8,0,month-to-month,bank transfer,dsl,South,low,0
+C00099,8,68.83,558.65,1,month-to-month,card,dsl,South,high,0
+C00100,37,40.58,1548.29,2,two-year,card,none,East,medium,0
+C00101,31,91.45,2729.65,3,two-year,electronic check,fibre,East,low,1
+C00102,54,38.79,2119.0,2,one-year,card,dsl,South,medium,0
+C00103,66,65.35,4431.21,1,month-to-month,electronic check,dsl,North,low,0
+C00104,36,86.11,,1,two-year,mailed check,fibre,East,medium,0
+C00105,25,18.0,431.09,2,one-year,electronic check,none,North,low,1
+C00106,34,55.2,1812.23,1,one-year,electronic check,fibre,West,medium,0
+C00107,13,67.46,841.16,1,month-to-month,electronic check,dsl,West,high,1
+C00108,47,52.84,2579.64,0,month-to-month,mailed check,dsl,North,medium,0
+C00109,16,18.0,284.45,2,month-to-month,bank transfer,none,South,low,1
+C00110,72,52.5,3788.83,4,two-year,card,dsl,North,medium,0
+C00111,36,84.37,3118.93,1,month-to-month,bank transfer,fibre,South,low,0
+C00112,10,54.01,533.16,1,month-to-month,bank transfer,dsl,North,,0
+C00113,10,36.38,369.22,2,month-to-month,card,dsl,West,low,1
+C00114,43,77.63,3196.78,2,one-year,electronic check,dsl,North,medium,0
+C00115,31,67.05,2074.58,2,month-to-month,card,dsl,East,medium,0
+C00116,44,75.98,3208.23,3,two-year,mailed check,fibre,East,medium,0
+C00117,18,51.46,902.96,1,one-year,card,dsl,North,medium,0
+C00118,38,29.31,1090.76,0,one-year,card,none,West,medium,0
+C00119,31,66.44,2104.45,1,month-to-month,card,fibre,North,high,0
+C00120,21,58.87,1257.79,1,one-year,card,dsl,West,,0
+C00121,47,18.0,,2,one-year,card,none,East,medium,0
+C00122,26,54.15,1346.2,2,one-year,card,dsl,East,medium,0
+C00123,7,18.0,132.22,1,month-to-month,card,none,West,medium,0
+C00124,14,66.58,890.59,2,month-to-month,card,fibre,South,low,0
+C00125,26,44.75,1201.4,3,month-to-month,bank transfer,none,South,medium,0
+C00126,9,80.71,743.84,1,month-to-month,bank transfer,fibre,North,high,0
+C00127,10,57.49,580.18,0,month-to-month,bank transfer,dsl,West,high,0
+C00128,16,30.86,490.74,4,month-to-month,bank transfer,dsl,South,low,0
+C00129,58,47.84,2846.07,0,month-to-month,card,dsl,West,medium,1
+C00130,24,,750.29,2,one-year,,none,South,high,0
+C00131,4,57.33,221.0,0,month-to-month,card,dsl,West,medium,1
+C00132,46,29.15,1380.14,1,two-year,electronic check,dsl,West,high,0
+C00133,29,82.49,2291.39,1,one-year,mailed check,fibre,South,medium,0
+C00134,8,59.4,475.23,1,month-to-month,mailed check,dsl,South,medium,1
+C00135,44,70.41,3142.99,2,one-year,bank transfer,dsl,West,medium,0
+C00136,17,72.14,,5,month-to-month,bank transfer,fibre,North,low,1
+C00137,33,28.1,923.88,1,two-year,bank transfer,dsl,North,medium,0
+C00138,68,18.0,1191.79,2,month-to-month,electronic check,none,South,medium,0
+C00139,45,41.84,1881.04,1,one-year,electronic check,dsl,East,high,0
+C00140,2,63.84,124.49,1,month-to-month,electronic check,dsl,North,high,1
+C00141,27,47.4,1283.48,2,month-to-month,mailed check,fibre,South,medium,0
+C00142,41,49.62,2026.79,2,month-to-month,bank transfer,dsl,West,medium,0
+C00143,55,97.11,5490.87,1,two-year,electronic check,fibre,North,high,0
+C00144,31,80.09,2418.26,1,one-year,electronic check,fibre,North,low,0
+C00145,5,65.76,318.94,0,month-to-month,,dsl,South,medium,0
+C00146,42,60.3,2526.06,3,month-to-month,mailed check,fibre,North,low,0
+C00147,27,60.78,1567.3,2,month-to-month,card,fibre,North,medium,0
+C00148,38,72.25,2671.19,1,month-to-month,mailed check,dsl,North,,0
+C00149,10,81.21,800.22,1,month-to-month,electronic check,fibre,North,low,1
+C00150,2,81.24,162.28,1,month-to-month,card,fibre,West,high,1
+C00151,37,66.58,2406.66,1,two-year,electronic check,fibre,North,low,0
+C00152,56,56.21,3166.85,0,two-year,card,dsl,East,medium,0
+C00153,12,66.25,,3,month-to-month,electronic check,fibre,East,medium,1
+C00154,28,69.24,1947.2,1,one-year,electronic check,dsl,East,high,0
+C00155,13,87.73,1116.18,1,month-to-month,electronic check,dsl,East,low,1
+C00156,70,85.81,5743.6,1,one-year,mailed check,fibre,South,medium,0
+C00157,12,18.0,208.15,0,month-to-month,card,none,West,high,1
+C00158,49,49.6,2445.28,1,one-year,card,fibre,North,medium,0
+C00159,20,34.79,708.58,0,one-year,bank transfer,dsl,North,high,0
+C00160,28,98.66,2638.08,1,one-year,card,fibre,West,high,0
+C00161,1,42.65,41.31,1,month-to-month,bank transfer,dsl,North,medium,0
+C00162,32,75.55,2373.86,2,two-year,card,fibre,North,high,0
+C00163,5,32.86,161.34,2,month-to-month,bank transfer,none,North,medium,0
+C00164,14,97.79,1431.82,3,month-to-month,bank transfer,fibre,North,low,1
+C00165,70,52.6,3572.93,0,one-year,mailed check,dsl,North,high,0
+C00166,26,75.14,1868.17,4,month-to-month,card,fibre,East,low,1
+C00167,30,80.86,2390.14,3,two-year,mailed check,fibre,East,medium,0
+C00168,33,72.47,2304.09,1,two-year,bank transfer,fibre,North,low,0
+C00169,43,48.11,1991.48,2,month-to-month,bank transfer,dsl,West,high,0
+C00170,72,59.94,4275.74,0,two-year,bank transfer,dsl,North,high,0
+C00171,24,27.22,640.63,0,month-to-month,bank transfer,none,East,medium,0
+C00172,32,80.58,2473.28,2,month-to-month,card,dsl,West,medium,0
+C00173,19,30.27,581.13,1,month-to-month,bank transfer,none,East,medium,0
+C00174,53,93.81,4972.78,2,two-year,card,fibre,South,low,0
+C00175,32,42.14,1291.45,2,month-to-month,bank transfer,dsl,North,medium,0
+C00176,8,61.3,508.19,2,month-to-month,electronic check,dsl,North,medium,0
+C00177,6,46.32,271.94,2,month-to-month,bank transfer,dsl,West,low,1
+C00178,37,29.75,1151.54,2,two-year,electronic check,none,South,medium,0
+C00179,66,63.26,4355.33,1,two-year,card,dsl,North,medium,0
+C00180,23,25.6,584.92,2,one-year,mailed check,none,East,medium,0
+C00181,72,83.89,5876.13,1,two-year,electronic check,dsl,East,medium,0
+C00182,38,97.14,3814.92,2,two-year,mailed check,fibre,North,low,0
+C00183,1,69.13,68.17,1,month-to-month,electronic check,dsl,North,high,1
+C00184,45,64.17,2790.5,3,month-to-month,card,dsl,North,medium,0
+C00185,45,46.16,2087.92,2,one-year,bank transfer,none,North,high,0
+C00186,61,37.76,2300.92,2,one-year,card,dsl,East,medium,0
+C00187,12,96.44,1197.79,0,month-to-month,electronic check,fibre,North,medium,0
+C00188,8,68.11,557.37,1,month-to-month,electronic check,fibre,East,medium,1
+C00189,49,73.23,3723.24,5,one-year,card,fibre,North,low,0
+C00190,15,61.74,947.84,1,month-to-month,mailed check,dsl,West,high,0
+C00191,39,94.8,3749.76,0,two-year,card,fibre,East,medium,0
+C00192,12,41.16,493.93,0,month-to-month,electronic check,dsl,South,,0
+C00193,10,48.85,512.32,1,month-to-month,electronic check,dsl,South,low,0
+C00194,30,56.17,1762.47,2,two-year,card,dsl,North,low,0
+C00195,7,77.76,563.31,1,month-to-month,electronic check,fibre,North,medium,1
+C00196,21,65.25,1407.98,1,month-to-month,electronic check,dsl,East,medium,1
+C00197,18,120.0,2176.75,0,one-year,card,fibre,North,medium,0
+C00198,41,30.03,1201.65,0,two-year,bank transfer,none,East,medium,0
+C00199,13,71.18,960.08,1,month-to-month,card,fibre,South,medium,0
+C00200,1,64.44,61.29,2,month-to-month,electronic check,fibre,North,low,1
+C00201,38,76.1,2812.98,1,one-year,card,fibre,East,medium,0
+C00202,72,43.72,3117.54,2,two-year,mailed check,dsl,East,low,0
+C00203,48,85.61,,3,month-to-month,mailed check,fibre,East,low,1
+C00204,3,60.42,182.36,0,month-to-month,card,dsl,North,medium,0
+C00205,2,49.44,95.67,1,month-to-month,bank transfer,dsl,East,medium,0
+C00206,25,78.82,1892.63,1,month-to-month,electronic check,dsl,West,high,0
+C00207,62,71.17,4290.02,1,month-to-month,electronic check,fibre,South,high,0
+C00208,19,78.57,1470.24,0,one-year,bank transfer,fibre,West,high,0
+C00209,7,87.67,583.87,2,month-to-month,card,fibre,East,,1
+C00210,4,90.7,369.78,2,month-to-month,card,fibre,South,medium,1
+C00211,25,70.33,1713.89,0,one-year,mailed check,dsl,West,high,0
+C00212,42,85.14,3522.74,1,one-year,bank transfer,fibre,West,low,0
+C00213,1,92.61,91.08,0,month-to-month,mailed check,fibre,North,medium,0
+C00214,44,72.02,3172.63,3,two-year,bank transfer,fibre,West,low,0
+C00215,20,66.02,1367.91,0,one-year,mailed check,dsl,North,high,0
+C00216,18,90.86,1578.14,2,one-year,card,fibre,North,low,0
+C00217,3,73.15,215.95,1,month-to-month,card,dsl,North,high,0
+C00218,1,59.98,61.13,0,month-to-month,mailed check,fibre,South,high,1
+C00219,51,18.0,876.16,1,two-year,mailed check,none,West,high,0
+C00220,6,64.88,402.13,2,month-to-month,bank transfer,dsl,East,medium,0
+C00221,8,48.18,403.24,2,month-to-month,bank transfer,fibre,East,high,0
+C00222,7,85.9,607.77,4,month-to-month,bank transfer,fibre,North,low,0
+C00223,24,92.72,2326.87,2,one-year,bank transfer,fibre,East,medium,0
+C00224,69,73.08,4998.68,1,two-year,,fibre,South,low,0
+C00225,12,74.84,890.45,0,month-to-month,mailed check,fibre,South,medium,1
+C00226,42,18.0,726.23,1,two-year,card,none,South,high,0
+C00227,14,48.74,650.66,2,month-to-month,electronic check,dsl,North,low,1
+C00228,21,74.09,1516.14,0,one-year,card,fibre,West,high,0
+C00229,28,46.81,1307.81,3,one-year,card,dsl,East,medium,0
+C00230,18,71.15,1281.68,0,month-to-month,electronic check,fibre,South,high,0
+C00231,19,21.75,401.58,1,month-to-month,bank transfer,none,North,low,0
+C00232,7,76.6,542.25,4,month-to-month,electronic check,fibre,West,medium,1
+C00233,32,77.49,2400.63,2,two-year,card,dsl,South,,0
+C00234,28,50.27,1383.1,3,one-year,mailed check,dsl,South,low,0
+C00235,69,84.13,5628.33,1,two-year,electronic check,fibre,East,medium,0
+C00236,49,73.08,3651.34,0,two-year,mailed check,fibre,North,high,0
+C00237,7,72.92,511.29,2,month-to-month,card,fibre,East,medium,0
+C00238,72,18.0,1326.6,0,one-year,bank transfer,none,West,medium,0
+C00239,17,,587.18,1,month-to-month,bank transfer,dsl,South,low,1
+C00240,71,40.52,2855.45,3,month-to-month,bank transfer,dsl,North,low,0
+C00241,42,57.2,2514.58,0,two-year,card,dsl,North,high,0
+C00242,21,67.91,1362.45,1,one-year,card,dsl,North,low,0
+C00243,6,33.56,199.72,0,month-to-month,bank transfer,dsl,East,medium,1
+C00244,30,48.41,1385.55,1,month-to-month,card,dsl,South,high,0
+C00245,33,38.6,1228.79,0,one-year,bank transfer,dsl,North,,0
+C00246,33,76.83,2525.89,1,two-year,card,fibre,East,medium,0
+C00247,57,37.91,2086.86,0,one-year,card,none,North,low,0
+C00248,5,74.64,373.9,5,month-to-month,electronic check,fibre,South,low,1
+C00249,34,79.43,2814.78,1,month-to-month,bank transfer,fibre,West,high,0
+C00250,1,72.46,70.29,2,month-to-month,bank transfer,dsl,North,medium,0
+C00251,42,85.49,3449.54,2,one-year,bank transfer,fibre,North,high,0
+C00252,31,70.88,2268.75,2,two-year,electronic check,fibre,South,medium,0
+C00253,18,81.91,1468.52,0,month-to-month,bank transfer,fibre,East,high,0
+C00254,8,45.07,374.36,2,month-to-month,electronic check,dsl,North,low,1
+C00255,44,60.05,2590.97,2,month-to-month,mailed check,dsl,West,medium,1
+C00256,28,86.18,2443.81,0,one-year,bank transfer,fibre,North,,1
+C00257,72,63.59,4772.29,4,two-year,mailed check,fibre,West,,0
+C00258,13,57.1,717.93,3,month-to-month,electronic check,dsl,East,medium,0
+C00259,1,23.59,24.3,1,month-to-month,card,none,North,low,1
+C00260,23,86.54,2016.6,4,one-year,bank transfer,fibre,North,low,0
+C00261,11,34.98,396.82,3,month-to-month,electronic check,none,North,high,0
+C00262,72,30.73,2139.7,1,two-year,mailed check,none,South,high,0
+C00263,5,76.36,379.28,3,month-to-month,,fibre,South,low,1
+C00264,36,66.2,2294.74,1,month-to-month,card,dsl,East,medium,0
+C00265,50,44.52,2328.41,0,two-year,electronic check,dsl,South,high,0
+C00266,31,39.15,1160.58,2,month-to-month,card,dsl,East,medium,0
+C00267,13,41.66,518.05,1,month-to-month,electronic check,fibre,South,medium,1
+C00268,5,54.16,281.58,2,month-to-month,bank transfer,dsl,South,high,0
+C00269,6,45.14,265.44,1,month-to-month,electronic check,dsl,South,low,1
+C00270,14,59.77,844.9,0,month-to-month,mailed check,dsl,South,medium,0
+C00271,29,18.0,,0,month-to-month,electronic check,none,West,medium,0
+C00272,17,47.23,,1,month-to-month,electronic check,dsl,North,high,1
+C00273,44,60.64,2586.11,0,month-to-month,electronic check,dsl,South,high,0
+C00274,18,18.0,322.67,2,one-year,electronic check,none,West,medium,0
+C00275,20,84.91,1703.89,1,one-year,mailed check,fibre,East,medium,1
+C00276,12,73.32,865.2,0,month-to-month,card,fibre,North,high,0
+C00277,5,79.61,388.17,4,month-to-month,,fibre,West,low,1
+C00278,24,32.14,743.61,1,month-to-month,card,none,North,medium,0
+C00279,40,91.43,3732.59,2,two-year,mailed check,fibre,North,medium,0
+C00280,63,56.11,3417.67,2,two-year,electronic check,dsl,South,high,0
+C00281,25,70.23,1719.25,0,month-to-month,bank transfer,fibre,East,medium,0
+C00282,46,74.5,3371.11,2,month-to-month,card,fibre,North,medium,0
+C00283,2,62.64,124.71,1,month-to-month,bank transfer,dsl,West,high,0
+C00284,9,67.74,622.01,4,month-to-month,electronic check,fibre,North,medium,1
+C00285,21,22.86,476.6,2,one-year,card,none,West,low,0
+C00286,22,75.37,1719.67,1,month-to-month,card,fibre,North,low,1
+C00287,4,23.76,96.75,0,month-to-month,mailed check,none,South,high,0
+C00288,13,67.89,912.44,1,month-to-month,,fibre,East,low,1
+C00289,23,18.0,422.96,3,month-to-month,card,none,South,low,0
+C00290,14,61.25,827.37,4,month-to-month,card,dsl,East,low,1
+C00291,49,91.57,4701.37,0,two-year,mailed check,fibre,East,medium,0
+C00292,1,58.49,60.17,0,month-to-month,electronic check,fibre,East,low,1
+C00293,42,84.43,3571.85,2,two-year,electronic check,fibre,South,medium,0
+C00294,7,68.0,460.06,1,month-to-month,bank transfer,dsl,West,medium,0
+C00295,37,62.15,2224.28,2,two-year,card,dsl,East,low,0
+C00296,47,75.0,3565.3,0,two-year,card,fibre,South,high,0
+C00297,54,68.68,3677.64,3,two-year,electronic check,fibre,East,medium,0
+C00298,36,55.97,2050.35,1,two-year,card,dsl,West,high,0
+C00299,41,57.97,2346.45,1,one-year,card,dsl,West,low,0
+C00300,43,56.15,2417.55,2,one-year,electronic check,dsl,East,low,0
+C00301,20,52.84,1023.82,1,one-year,mailed check,dsl,West,medium,0
+C00302,56,42.01,2271.44,2,month-to-month,electronic check,dsl,West,,0
+C00303,29,30.07,835.02,1,month-to-month,bank transfer,none,South,low,1
+C00304,44,85.65,3889.06,5,month-to-month,bank transfer,fibre,East,low,1
+C00305,41,82.41,3397.52,0,two-year,,fibre,North,low,0
+C00306,5,81.33,424.83,2,month-to-month,bank transfer,fibre,South,low,0
+C00307,1,75.15,77.02,0,month-to-month,bank transfer,dsl,West,medium,1
+C00308,49,72.51,3648.48,4,one-year,bank transfer,fibre,South,,0
+C00309,65,40.38,2627.08,3,month-to-month,electronic check,none,West,low,0
+C00310,16,46.19,762.35,0,month-to-month,mailed check,dsl,South,low,0
+C00311,11,68.31,784.63,2,month-to-month,mailed check,dsl,North,low,0
+C00312,19,69.8,1355.61,3,month-to-month,,dsl,North,medium,1
+C00313,2,76.48,146.93,1,month-to-month,bank transfer,fibre,East,medium,0
+C00314,4,74.93,304.25,0,month-to-month,card,dsl,South,high,1
+C00315,14,85.63,1153.32,2,month-to-month,bank transfer,fibre,East,low,1
+C00316,12,44.47,511.08,1,month-to-month,card,dsl,North,high,0
+C00317,49,20.51,1024.38,5,month-to-month,card,none,South,low,0
+C00318,31,68.59,2197.48,1,one-year,electronic check,dsl,North,medium,0
+C00319,7,36.08,243.94,1,month-to-month,bank transfer,none,South,medium,0
+C00320,38,67.3,2448.49,4,two-year,mailed check,fibre,West,low,1
+C00321,47,,2603.39,1,two-year,card,dsl,North,medium,0
+C00322,2,57.44,110.65,1,month-to-month,card,dsl,East,high,0
+C00323,7,,326.45,1,month-to-month,bank transfer,dsl,North,,0
+C00324,6,108.29,664.1,2,month-to-month,card,fibre,East,medium,0
+C00325,72,82.8,6168.89,1,two-year,card,fibre,West,medium,0
+C00326,25,54.26,1358.46,1,one-year,mailed check,dsl,South,low,0
+C00327,35,94.29,3313.33,4,two-year,,fibre,North,medium,0
+C00328,3,50.62,149.38,1,month-to-month,card,dsl,East,low,1
+C00329,28,67.09,1829.39,1,one-year,electronic check,dsl,South,medium,0
+C00330,1,18.0,18.46,2,month-to-month,bank transfer,none,West,high,0
+C00331,35,74.56,2700.75,2,one-year,electronic check,fibre,West,low,1
+C00332,19,37.59,701.44,1,month-to-month,bank transfer,none,East,high,0
+C00333,20,98.84,1932.09,0,one-year,electronic check,fibre,East,high,1
+C00334,30,45.72,1339.75,1,two-year,card,dsl,East,low,0
+C00335,7,44.32,296.3,1,month-to-month,bank transfer,dsl,East,low,1
+C00336,72,86.81,6113.48,5,one-year,electronic check,fibre,South,,0
+C00337,35,72.52,2417.8,0,month-to-month,mailed check,fibre,West,high,0
+C00338,42,76.78,3317.76,2,one-year,bank transfer,fibre,South,low,0
+C00339,30,65.52,1917.62,1,month-to-month,electronic check,dsl,North,medium,0
+C00340,66,48.47,3259.85,0,two-year,card,dsl,East,high,0
+C00341,7,56.41,396.58,3,month-to-month,,fibre,East,low,0
+C00342,41,64.39,2729.08,2,two-year,card,fibre,West,medium,0
+C00343,52,55.12,2998.2,1,two-year,electronic check,dsl,South,high,0
+C00344,23,57.64,1308.13,1,one-year,card,fibre,South,low,1
+C00345,61,51.43,3008.08,0,one-year,electronic check,dsl,East,high,0
+C00346,35,18.0,645.73,0,one-year,card,none,South,medium,0
+C00347,45,74.68,3199.73,2,two-year,mailed check,dsl,West,low,0
+C00348,8,50.98,396.54,1,month-to-month,electronic check,none,South,high,0
+C00349,20,42.3,808.21,2,one-year,card,dsl,West,low,0
+C00350,20,58.08,1207.85,1,month-to-month,card,dsl,South,low,0
+C00351,40,68.48,2603.69,0,one-year,card,fibre,North,medium,0
+C00352,40,76.29,3049.39,2,month-to-month,mailed check,fibre,West,medium,0
+C00353,33,76.64,2509.9,2,one-year,card,dsl,East,low,0
+C00354,37,74.4,2794.85,2,one-year,bank transfer,fibre,East,low,0
+C00355,22,21.57,464.56,1,month-to-month,bank transfer,none,East,high,0
+C00356,16,43.69,725.16,2,month-to-month,electronic check,dsl,South,medium,0
+C00357,26,38.75,1031.11,2,one-year,bank transfer,none,West,medium,0
+C00358,32,40.84,1298.03,1,one-year,bank transfer,fibre,South,,0
+C00359,4,49.69,195.94,1,month-to-month,mailed check,dsl,West,high,0
+C00360,21,54.45,1179.57,0,one-year,card,dsl,South,high,0
+C00361,72,72.07,5322.43,1,two-year,electronic check,fibre,North,low,0
+C00362,4,65.36,258.8,0,month-to-month,card,dsl,North,low,0
+C00363,11,69.42,751.51,0,month-to-month,bank transfer,dsl,West,high,1
+C00364,11,18.0,188.87,2,month-to-month,mailed check,none,East,medium,0
+C00365,32,80.12,2456.6,1,one-year,electronic check,dsl,South,high,0
+C00366,65,62.92,3907.36,1,month-to-month,electronic check,fibre,West,low,1
+C00367,23,70.46,1543.51,1,one-year,card,dsl,East,medium,0
+C00368,19,56.8,1041.74,2,one-year,bank transfer,dsl,East,medium,0
+C00369,8,73.96,612.81,3,month-to-month,bank transfer,fibre,East,medium,1
+C00370,38,75.09,2938.5,1,two-year,bank transfer,fibre,North,medium,0
+C00371,21,79.6,1729.37,3,one-year,bank transfer,fibre,North,medium,0
+C00372,1,82.5,83.52,2,month-to-month,bank transfer,fibre,East,low,0
+C00373,6,43.96,267.03,2,month-to-month,bank transfer,dsl,North,medium,1
+C00374,16,77.19,1188.59,1,month-to-month,card,fibre,East,low,1
+C00375,1,45.75,46.66,0,month-to-month,bank transfer,dsl,North,medium,0
+C00376,9,65.42,575.83,3,month-to-month,card,fibre,South,low,1
+C00377,40,45.19,1811.08,7,two-year,mailed check,dsl,East,low,1
+C00378,38,66.2,2629.99,3,month-to-month,electronic check,fibre,East,low,0
+C00379,41,19.96,848.69,1,month-to-month,card,none,West,low,0
+C00380,44,85.19,3648.35,2,one-year,electronic check,fibre,East,high,0
+C00381,26,56.45,1502.43,1,one-year,electronic check,dsl,North,medium,0
+C00382,35,103.69,3485.47,2,two-year,card,fibre,West,medium,0
+C00383,25,53.47,1273.49,3,one-year,card,fibre,North,low,0
+C00384,10,60.63,577.69,1,month-to-month,card,dsl,North,high,0
+C00385,22,55.08,,2,month-to-month,card,dsl,West,medium,0
+C00386,46,34.79,1631.54,2,two-year,electronic check,none,North,low,0
+C00387,18,88.6,1573.0,5,one-year,mailed check,fibre,East,low,1
+C00388,44,78.02,3266.71,0,two-year,card,fibre,South,high,0
+C00389,29,57.07,1735.8,1,month-to-month,electronic check,dsl,West,low,1
+C00390,72,46.07,3328.11,2,two-year,card,dsl,North,low,0
+C00391,19,87.36,1642.23,2,one-year,electronic check,fibre,North,medium,0
+C00392,72,32.45,2340.8,0,month-to-month,electronic check,dsl,South,medium,0
+C00393,32,64.32,2062.35,1,one-year,bank transfer,dsl,South,high,0
+C00394,19,,1036.59,1,one-year,card,dsl,West,medium,0
+C00395,23,74.16,1724.95,1,month-to-month,electronic check,fibre,East,high,0
+C00396,36,77.21,2886.75,1,month-to-month,mailed check,fibre,North,high,0
+C00397,36,78.09,2755.5,0,two-year,card,fibre,West,high,0
+C00398,5,70.57,352.39,0,month-to-month,card,dsl,South,medium,0
+C00399,8,118.8,903.23,5,month-to-month,card,fibre,West,low,1
+C00400,17,69.64,1226.48,0,month-to-month,electronic check,dsl,West,high,1
+C00401,6,48.22,283.7,1,month-to-month,electronic check,dsl,North,,0
+C00402,32,62.56,1956.14,0,two-year,electronic check,dsl,East,high,0
+C00403,27,88.08,2496.48,1,one-year,electronic check,fibre,South,high,0
+C00404,6,68.9,416.89,0,month-to-month,mailed check,fibre,South,high,0
+C00405,44,39.87,1688.15,1,two-year,electronic check,dsl,South,high,1
+C00406,60,54.24,3178.09,1,two-year,card,dsl,East,low,0
+C00407,9,34.69,307.63,2,month-to-month,electronic check,none,South,medium,1
+C00408,72,60.66,4579.81,1,two-year,card,fibre,North,high,0
+C00409,19,18.0,339.63,1,month-to-month,bank transfer,none,South,medium,1
+C00410,42,86.87,,1,two-year,mailed check,fibre,North,high,0
+C00411,40,80.5,3242.45,7,one-year,electronic check,fibre,West,low,1
+C00412,49,97.0,4707.73,1,one-year,mailed check,fibre,East,medium,0
+C00413,18,38.06,654.59,3,month-to-month,bank transfer,dsl,South,low,0
+C00414,32,108.23,3588.36,1,two-year,bank transfer,fibre,South,medium,0
+C00415,1,61.54,58.56,0,month-to-month,bank transfer,fibre,North,medium,0
+C00416,29,30.65,924.27,3,month-to-month,card,dsl,South,low,0
+C00417,2,54.29,111.75,1,month-to-month,card,dsl,West,medium,1
+C00418,32,66.39,2034.36,0,one-year,bank transfer,fibre,North,low,0
+C00419,2,79.53,162.62,2,month-to-month,card,fibre,North,low,1
+C00420,72,54.12,4002.22,1,two-year,mailed check,dsl,West,low,0
+C00421,25,77.65,1961.11,2,one-year,card,fibre,East,medium,0
+C00422,18,69.89,1267.79,3,month-to-month,,fibre,North,medium,1
+C00423,5,60.19,287.4,2,month-to-month,electronic check,dsl,South,medium,1
+C00424,13,76.19,946.84,0,month-to-month,card,fibre,East,low,0
+C00425,18,68.24,1256.24,0,one-year,mailed check,dsl,South,medium,0
+C00426,35,77.84,2616.94,1,two-year,electronic check,fibre,South,low,0
+C00427,24,68.42,1599.69,1,month-to-month,card,fibre,East,medium,0
+C00428,39,59.75,2329.98,2,two-year,electronic check,fibre,East,medium,0
+C00429,11,77.93,828.44,5,month-to-month,electronic check,fibre,West,medium,0
+C00430,54,64.77,3598.95,1,two-year,electronic check,fibre,North,medium,0
+C00431,35,63.8,2301.64,1,two-year,,fibre,South,high,0
+C00432,19,31.33,615.64,0,one-year,electronic check,none,North,medium,0
+C00433,27,33.67,868.14,2,one-year,electronic check,dsl,East,medium,0
+C00434,49,96.95,4716.29,2,two-year,bank transfer,fibre,East,medium,0
+C00435,15,56.92,883.42,1,month-to-month,electronic check,dsl,South,high,0
+C00436,30,54.47,1611.75,4,month-to-month,mailed check,dsl,East,low,0
+C00437,53,42.58,2300.93,3,month-to-month,electronic check,dsl,South,medium,1
+C00438,33,89.17,2968.87,0,month-to-month,electronic check,fibre,North,medium,0
+C00439,22,79.97,1732.46,0,one-year,bank transfer,fibre,East,low,1
+C00440,44,71.77,3087.27,0,one-year,electronic check,fibre,South,high,0
+C00441,49,82.4,4099.27,3,two-year,mailed check,fibre,South,low,1
+C00442,12,59.81,691.42,1,month-to-month,card,fibre,South,medium,0
+C00443,23,18.0,428.91,3,one-year,card,none,West,low,0
+C00444,25,18.0,453.44,1,month-to-month,bank transfer,none,North,low,1
+C00445,8,84.19,647.35,1,month-to-month,bank transfer,fibre,South,medium,0
+C00446,18,,1009.41,0,one-year,electronic check,dsl,East,high,0
+C00447,52,92.59,4781.51,1,two-year,,fibre,North,medium,0
+C00448,24,43.96,1023.82,2,one-year,bank transfer,dsl,North,low,0
+C00449,33,61.9,2136.88,2,month-to-month,electronic check,dsl,East,,0
+C00450,53,78.63,4258.93,0,one-year,electronic check,fibre,East,medium,0
+C00451,2,43.68,88.17,2,month-to-month,electronic check,dsl,East,medium,1
+C00452,59,29.62,1808.55,0,two-year,electronic check,none,North,low,0
+C00453,26,54.21,1415.64,3,one-year,electronic check,dsl,West,medium,0
+C00454,6,47.45,283.03,2,month-to-month,electronic check,dsl,South,high,0
+C00455,11,55.5,591.54,1,month-to-month,electronic check,dsl,North,medium,1
+C00456,5,78.45,378.65,5,month-to-month,bank transfer,fibre,South,low,1
+C00457,36,78.16,2794.62,3,two-year,electronic check,fibre,North,low,0
+C00458,15,50.05,747.44,2,month-to-month,card,dsl,South,low,0
+C00459,28,64.34,1843.55,2,one-year,card,fibre,South,,0
+C00460,54,55.9,3001.12,4,one-year,bank transfer,dsl,South,low,0
+C00461,36,70.37,2556.92,2,one-year,,fibre,South,medium,0
+C00462,28,67.76,1960.37,0,month-to-month,electronic check,fibre,West,high,0
+C00463,38,77.11,3074.74,2,two-year,card,fibre,West,,0
+C00464,24,33.81,797.04,2,month-to-month,electronic check,none,South,medium,1
+C00465,43,82.23,3678.02,1,one-year,card,fibre,West,low,0
+C00466,53,73.63,4021.82,1,one-year,electronic check,fibre,West,low,0
+C00467,25,73.14,1749.51,2,one-year,electronic check,fibre,West,medium,1
+C00468,31,62.63,1909.33,2,two-year,electronic check,dsl,North,high,0
+C00469,13,18.0,227.43,1,month-to-month,electronic check,none,South,low,1
+C00470,1,89.57,,3,month-to-month,bank transfer,fibre,South,medium,1
+C00471,45,18.0,814.48,2,month-to-month,bank transfer,none,North,medium,0
+C00472,1,,62.99,2,month-to-month,mailed check,fibre,North,medium,1
+C00473,12,48.83,,0,month-to-month,electronic check,dsl,East,high,0
+C00474,29,106.04,3023.9,2,month-to-month,bank transfer,fibre,South,low,1
+C00475,7,75.13,519.74,2,month-to-month,bank transfer,dsl,West,medium,0
+C00476,26,63.48,1710.83,2,month-to-month,card,dsl,East,high,0
+C00477,20,59.28,1241.59,1,month-to-month,card,dsl,North,high,0
+C00478,21,57.65,1244.11,0,one-year,card,fibre,West,high,0
+C00479,39,56.88,2155.56,1,one-year,bank transfer,dsl,South,medium,0
+C00480,10,18.41,,0,month-to-month,mailed check,none,East,medium,0
+C00481,7,45.2,,0,month-to-month,bank transfer,dsl,West,low,0
+C00482,19,56.86,1072.0,1,month-to-month,card,dsl,East,medium,0
+C00483,56,49.35,2690.83,1,one-year,card,dsl,North,medium,1
+C00484,35,90.43,3291.98,2,month-to-month,bank transfer,fibre,North,medium,0
+C00485,26,18.0,475.99,0,month-to-month,electronic check,none,South,high,0
+C00486,18,80.9,1444.07,4,month-to-month,bank transfer,fibre,North,low,1
+C00487,19,44.45,825.45,1,month-to-month,electronic check,dsl,North,medium,0
+C00488,21,75.08,1557.86,6,month-to-month,electronic check,fibre,West,medium,1
+C00489,30,83.66,2503.79,4,one-year,card,fibre,North,medium,1
+C00490,37,41.59,1571.73,2,one-year,electronic check,dsl,North,medium,0
+C00491,20,56.97,1092.61,1,one-year,mailed check,dsl,East,medium,0
+C00492,49,22.45,1138.42,1,one-year,bank transfer,none,North,medium,0
+C00493,23,18.0,398.58,1,one-year,card,none,South,low,0
+C00494,9,74.35,653.25,0,month-to-month,mailed check,fibre,West,high,1
+C00495,72,78.15,5904.53,1,one-year,mailed check,fibre,East,low,0
+C00496,16,70.79,1097.55,3,month-to-month,,fibre,West,low,1
+C00497,3,55.09,158.68,0,month-to-month,electronic check,dsl,South,medium,0
+C00498,18,51.66,942.75,2,one-year,card,dsl,East,low,0
+C00499,2,18.0,35.62,2,month-to-month,electronic check,none,North,high,1
+C00500,3,74.08,213.17,0,month-to-month,bank transfer,dsl,South,high,0
+C00501,30,84.98,,1,one-year,card,fibre,North,high,0
+C00502,43,50.41,2076.41,3,two-year,electronic check,dsl,West,low,0
+C00503,39,56.75,2218.28,0,two-year,mailed check,dsl,North,high,0
+C00504,10,42.68,415.31,1,month-to-month,electronic check,dsl,North,medium,1
+C00505,50,74.76,3841.75,4,month-to-month,card,fibre,South,low,0
+C00506,37,76.16,2918.66,3,one-year,card,fibre,South,low,0
+C00507,12,65.04,752.76,2,month-to-month,mailed check,fibre,South,medium,1
+C00508,36,84.65,2997.73,0,two-year,mailed check,fibre,South,medium,0
+C00509,3,48.93,141.6,1,month-to-month,,dsl,South,medium,0
+C00510,3,75.73,222.34,1,month-to-month,electronic check,fibre,West,medium,0
+C00511,18,48.18,844.62,1,month-to-month,bank transfer,dsl,East,low,0
+C00512,32,90.51,2979.41,4,two-year,bank transfer,dsl,West,low,0
+C00513,17,18.0,301.27,0,month-to-month,card,none,West,low,0
+C00514,34,55.18,1875.29,0,month-to-month,card,fibre,East,high,0
+C00515,7,60.8,433.0,4,month-to-month,card,fibre,West,low,1
+C00516,72,89.11,6622.68,1,month-to-month,electronic check,fibre,North,medium,0
+C00517,7,96.04,658.92,1,month-to-month,card,fibre,West,low,1
+C00518,27,71.82,1882.75,6,one-year,card,fibre,South,low,0
+C00519,72,70.35,5307.55,0,month-to-month,bank transfer,dsl,East,low,0
+C00520,38,,3317.44,3,two-year,card,fibre,North,low,1
+C00521,40,77.73,3162.39,3,two-year,card,fibre,North,medium,0
+C00522,26,76.87,2034.16,1,month-to-month,electronic check,fibre,West,medium,0
+C00523,31,57.17,1774.76,1,month-to-month,bank transfer,dsl,South,low,0
+C00524,41,35.53,1417.17,2,one-year,electronic check,none,North,medium,0
+C00525,14,59.77,806.78,3,month-to-month,mailed check,dsl,East,low,1
+C00526,4,46.88,187.28,2,month-to-month,card,dsl,North,,0
+C00527,32,52.91,1694.97,1,two-year,mailed check,dsl,South,medium,0
+C00528,30,78.78,2428.01,3,two-year,,dsl,East,low,0
+C00529,34,83.01,2881.56,1,one-year,electronic check,fibre,East,low,1
+C00530,27,65.43,1839.4,1,month-to-month,electronic check,dsl,South,high,0
+C00531,34,61.48,2188.74,0,one-year,electronic check,dsl,South,low,0
+C00532,20,83.28,1703.55,0,one-year,electronic check,fibre,West,medium,0
+C00533,4,56.3,215.66,1,month-to-month,electronic check,dsl,North,medium,0
+C00534,26,65.77,1693.8,2,one-year,card,dsl,North,medium,0
+C00535,2,63.62,128.62,2,month-to-month,mailed check,dsl,North,,1
+C00536,9,83.17,755.28,1,month-to-month,electronic check,fibre,West,low,1
+C00537,21,46.67,948.85,0,month-to-month,electronic check,dsl,South,medium,1
+C00538,37,29.63,1105.4,1,month-to-month,bank transfer,none,North,low,1
+C00539,43,79.2,3354.41,3,month-to-month,card,fibre,North,high,0
+C00540,71,76.3,5330.04,0,two-year,bank transfer,fibre,North,high,0
+C00541,32,112.15,3708.67,0,two-year,bank transfer,fibre,West,medium,0
+C00542,69,,4212.43,3,one-year,bank transfer,fibre,South,low,0
+C00543,50,36.5,1830.0,1,two-year,bank transfer,none,North,medium,0
+C00544,72,44.65,3235.01,4,two-year,card,dsl,North,low,0
+C00545,2,81.57,164.17,2,month-to-month,bank transfer,fibre,East,low,1
+C00546,3,110.82,322.92,0,month-to-month,bank transfer,fibre,East,medium,0
+C00547,72,18.0,,1,month-to-month,mailed check,none,West,medium,0
+C00548,19,71.31,1332.48,3,month-to-month,card,fibre,North,low,1
+C00549,43,54.79,2392.49,1,one-year,bank transfer,dsl,North,low,0
+C00550,31,69.83,2088.03,2,month-to-month,card,fibre,North,low,0
+C00551,2,90.61,190.17,3,month-to-month,bank transfer,fibre,South,medium,0
+C00552,5,48.59,249.56,1,month-to-month,bank transfer,dsl,East,medium,0
+C00553,1,87.85,87.12,2,month-to-month,electronic check,fibre,East,medium,1
+C00554,72,39.05,2755.75,4,two-year,mailed check,dsl,North,low,0
+C00555,10,58.32,576.66,2,month-to-month,,fibre,East,medium,0
+C00556,1,52.25,53.41,2,month-to-month,electronic check,dsl,East,low,1
+C00557,1,36.18,36.74,0,month-to-month,card,dsl,North,high,1
+C00558,5,73.22,373.5,3,month-to-month,card,dsl,East,,1
+C00559,22,61.64,1408.83,2,one-year,bank transfer,fibre,South,low,0
+C00560,41,42.55,1736.93,2,month-to-month,card,dsl,North,low,0
+C00561,1,29.96,30.47,0,month-to-month,,none,South,high,0
+C00562,18,72.96,1305.6,2,month-to-month,electronic check,fibre,West,medium,1
+C00563,38,61.78,2380.06,1,two-year,electronic check,fibre,East,high,0
+C00564,19,79.48,1506.32,1,one-year,bank transfer,dsl,South,high,1
+C00565,23,,,0,one-year,electronic check,fibre,West,medium,0
+C00566,56,52.64,2802.0,2,one-year,bank transfer,dsl,South,high,0
+C00567,22,52.49,1121.95,2,one-year,card,dsl,South,low,0
+C00568,11,88.52,953.9,1,month-to-month,card,fibre,North,medium,0
+C00569,39,60.55,2466.63,0,month-to-month,electronic check,dsl,West,medium,1
+C00570,10,45.08,451.12,1,month-to-month,mailed check,dsl,West,medium,1
+C00571,72,76.09,5404.17,0,month-to-month,card,fibre,North,medium,0
+C00572,50,22.28,1103.34,0,two-year,electronic check,none,East,low,0
+C00573,11,88.99,974.17,0,month-to-month,,fibre,West,medium,0
+C00574,48,65.98,3283.53,0,one-year,electronic check,fibre,East,medium,0
+C00575,41,79.22,3398.19,1,two-year,bank transfer,dsl,North,low,0
+C00576,11,70.89,806.63,3,month-to-month,electronic check,fibre,West,low,1
+C00577,45,54.9,2554.91,2,two-year,electronic check,dsl,South,low,1
+C00578,25,66.08,1602.28,0,one-year,mailed check,fibre,South,high,0
+C00579,43,39.42,1655.85,2,two-year,card,dsl,South,medium,0
+C00580,26,69.51,1824.62,3,month-to-month,mailed check,fibre,West,medium,0
+C00581,24,43.35,1056.64,1,month-to-month,card,dsl,East,medium,0
+C00582,1,50.03,48.54,1,month-to-month,electronic check,dsl,East,medium,1
+C00583,10,43.25,443.15,4,month-to-month,card,dsl,West,low,1
+C00584,4,33.35,129.4,0,month-to-month,card,none,West,medium,0
+C00585,35,45.6,1558.18,1,two-year,card,dsl,West,medium,0
+C00586,28,44.27,1215.61,0,one-year,bank transfer,dsl,West,medium,0
+C00587,22,50.28,1144.43,1,month-to-month,bank transfer,dsl,West,medium,1
+C00588,5,36.91,188.83,0,month-to-month,card,none,West,medium,1
+C00589,5,57.58,288.78,3,month-to-month,bank transfer,dsl,East,medium,1
+C00590,29,23.8,712.27,2,month-to-month,bank transfer,none,North,low,0
+C00591,35,62.8,2266.78,3,two-year,electronic check,fibre,North,medium,0
+C00592,7,41.29,285.85,1,month-to-month,mailed check,dsl,West,low,0
+C00593,6,39.66,244.66,0,month-to-month,electronic check,dsl,South,high,0
+C00594,21,95.68,1950.26,0,one-year,card,fibre,West,high,1
+C00595,27,86.37,,1,month-to-month,card,fibre,West,high,0
+C00596,72,18.0,1246.52,2,month-to-month,mailed check,none,East,low,1
+C00597,20,73.23,1453.88,2,one-year,card,fibre,West,high,0
+C00598,25,70.1,1756.07,4,one-year,bank transfer,fibre,South,medium,0
+C00599,37,69.37,2458.87,2,two-year,mailed check,fibre,South,medium,0
+C00600,21,85.52,1789.21,2,one-year,mailed check,fibre,West,low,1
+C00601,13,51.55,680.31,0,month-to-month,bank transfer,dsl,West,low,0
+C00602,59,49.97,2981.87,2,one-year,electronic check,none,North,low,0
+C00603,31,40.0,1184.74,0,two-year,bank transfer,none,West,medium,0
+C00604,54,70.71,3663.83,0,one-year,electronic check,dsl,South,low,0
+C00605,37,63.06,2298.54,0,two-year,card,dsl,West,high,0
+C00606,58,74.93,4494.87,1,one-year,card,fibre,East,low,0
+C00607,38,32.17,1267.66,1,two-year,electronic check,none,East,medium,0
+C00608,5,75.81,371.83,0,month-to-month,card,fibre,North,high,0
+C00609,19,99.56,1933.05,2,one-year,electronic check,fibre,South,medium,0
+C00610,1,29.85,30.08,0,month-to-month,bank transfer,none,East,high,0
+C00611,41,28.15,1209.94,1,one-year,mailed check,none,West,high,1
+C00612,60,81.52,4692.93,6,one-year,electronic check,fibre,North,low,1
+C00613,41,75.88,3125.98,2,two-year,,dsl,North,medium,0
+C00614,46,37.79,1754.43,1,two-year,electronic check,dsl,East,medium,0
+C00615,1,102.06,100.1,1,month-to-month,card,fibre,South,high,1
+C00616,47,77.77,3489.59,0,one-year,bank transfer,fibre,West,high,0
+C00617,30,63.13,1809.07,0,one-year,card,fibre,North,low,1
+C00618,49,45.97,2242.08,0,month-to-month,mailed check,dsl,South,low,0
+C00619,17,60.19,1042.92,0,month-to-month,electronic check,fibre,North,high,0
+C00620,11,62.84,705.08,0,month-to-month,mailed check,dsl,East,high,0
+C00621,18,67.54,1176.93,4,one-year,mailed check,fibre,West,high,0
+C00622,35,27.02,979.55,1,month-to-month,mailed check,none,North,medium,0
+C00623,49,,3320.59,1,two-year,card,dsl,South,high,0
+C00624,18,18.0,339.05,2,month-to-month,mailed check,none,West,high,0
+C00625,70,76.78,5169.38,4,two-year,electronic check,fibre,North,medium,0
+C00626,3,,122.05,3,month-to-month,bank transfer,dsl,West,medium,0
+C00627,49,50.34,2567.38,2,one-year,electronic check,dsl,West,low,1
+C00628,2,110.89,228.94,2,month-to-month,bank transfer,fibre,North,medium,1
+C00629,19,89.34,1749.88,2,one-year,card,fibre,North,medium,0
+C00630,72,76.82,5454.33,2,two-year,card,fibre,East,medium,0
+C00631,72,72.66,5343.13,5,two-year,card,fibre,North,low,0
+C00632,33,79.49,2643.98,4,two-year,bank transfer,fibre,East,medium,0
+C00633,5,81.56,404.72,2,month-to-month,mailed check,fibre,North,low,1
+C00634,8,74.97,629.33,3,month-to-month,electronic check,fibre,East,medium,1
+C00635,35,61.36,2102.6,2,month-to-month,bank transfer,dsl,South,medium,0
+C00636,32,68.56,,2,month-to-month,bank transfer,fibre,East,low,0
+C00637,25,68.5,1781.49,2,one-year,bank transfer,fibre,West,low,1
+C00638,45,59.44,2618.36,2,one-year,card,dsl,South,low,0
+C00639,19,65.98,1210.08,1,one-year,electronic check,fibre,East,medium,1
+C00640,35,88.75,3047.23,2,two-year,card,fibre,East,,0
+C00641,31,79.83,2538.9,0,one-year,electronic check,fibre,West,medium,0
+C00642,42,58.07,2526.71,2,two-year,electronic check,fibre,North,low,0
+C00643,10,56.31,541.39,1,month-to-month,electronic check,dsl,North,medium,0
+C00644,3,59.78,181.52,2,month-to-month,mailed check,fibre,South,medium,1
+C00645,48,88.32,4267.89,1,one-year,card,fibre,East,low,0
+C00646,34,22.02,761.32,1,two-year,mailed check,none,West,,0
+C00647,29,47.21,1392.51,0,month-to-month,electronic check,none,South,medium,0
+C00648,24,92.86,,3,month-to-month,,fibre,North,,1
+C00649,27,67.27,1788.42,1,one-year,electronic check,fibre,East,medium,0
+C00650,13,30.75,391.75,1,month-to-month,electronic check,dsl,East,low,0
+C00651,11,45.94,509.44,3,month-to-month,mailed check,dsl,South,low,1
+C00652,72,40.34,2883.98,2,two-year,bank transfer,dsl,North,,0
+C00653,28,101.91,2845.99,3,one-year,electronic check,fibre,West,low,0
+C00654,42,79.88,3210.45,7,month-to-month,electronic check,fibre,West,low,1
+C00655,58,91.2,5103.53,1,two-year,bank transfer,fibre,East,medium,0
+C00656,20,21.58,450.39,1,month-to-month,mailed check,none,East,low,1
+C00657,31,22.84,677.47,3,two-year,bank transfer,none,South,low,0
+C00658,9,79.61,722.95,3,month-to-month,electronic check,fibre,South,low,0
+C00659,62,68.28,4341.13,1,one-year,card,dsl,North,high,0
+C00660,25,83.74,1991.31,4,month-to-month,card,fibre,North,medium,1
+C00661,38,42.31,1563.2,1,month-to-month,electronic check,dsl,South,medium,1
+C00662,39,44.47,1713.01,2,two-year,bank transfer,none,South,medium,0
+C00663,1,51.49,51.53,1,month-to-month,bank transfer,dsl,North,medium,1
+C00664,34,74.53,2493.88,4,month-to-month,card,fibre,West,low,1
+C00665,13,21.05,277.73,2,month-to-month,bank transfer,dsl,South,,0
+C00666,23,87.61,1959.9,2,one-year,electronic check,fibre,East,low,1
+C00667,41,56.21,2195.25,2,two-year,mailed check,dsl,South,high,0
+C00668,37,81.2,2854.65,1,two-year,card,fibre,South,,0
+C00669,4,20.17,79.43,1,month-to-month,electronic check,none,West,medium,0
+C00670,10,73.1,720.89,0,month-to-month,bank transfer,fibre,East,high,0
+C00671,4,75.57,315.84,2,month-to-month,electronic check,fibre,West,high,1
+C00672,72,85.56,5879.89,2,one-year,bank transfer,fibre,South,low,0
+C00673,33,87.67,2901.81,4,two-year,bank transfer,fibre,South,,0
+C00674,34,77.23,2646.25,2,one-year,bank transfer,fibre,South,medium,0
+C00675,52,66.39,3521.08,0,one-year,electronic check,dsl,East,high,0
+C00676,25,79.05,2003.67,3,month-to-month,bank transfer,fibre,South,low,1
+C00677,39,73.95,2742.19,0,two-year,bank transfer,fibre,South,medium,0
+C00678,24,82.38,2003.19,5,month-to-month,electronic check,fibre,North,low,1
+C00679,9,63.69,563.03,3,month-to-month,electronic check,fibre,East,medium,1
+C00680,7,27.79,199.84,2,month-to-month,bank transfer,none,East,low,0
+C00681,6,18.0,104.63,3,month-to-month,electronic check,none,East,low,1
+C00682,3,67.67,207.4,2,month-to-month,mailed check,fibre,West,low,1
+C00683,14,30.78,436.33,2,month-to-month,,dsl,West,low,0
+C00684,17,52.9,913.0,1,month-to-month,electronic check,dsl,West,medium,0
+C00685,29,44.32,1243.63,3,one-year,card,none,North,medium,0
+C00686,5,78.6,399.65,1,month-to-month,electronic check,fibre,West,medium,1
+C00687,4,87.72,359.2,2,month-to-month,card,fibre,South,high,0
+C00688,30,83.23,2494.26,0,two-year,electronic check,dsl,South,high,0
+C00689,37,29.85,1086.82,2,one-year,card,none,South,medium,0
+C00690,52,45.82,2303.19,0,month-to-month,bank transfer,dsl,South,medium,0
+C00691,22,47.47,1022.4,0,month-to-month,mailed check,dsl,West,medium,0
+C00692,63,80.01,5173.62,0,two-year,bank transfer,fibre,East,high,0
+C00693,6,47.41,281.88,2,month-to-month,mailed check,dsl,West,low,1
+C00694,18,18.3,336.08,0,month-to-month,mailed check,none,West,high,0
+C00695,30,91.82,2820.74,3,two-year,mailed check,fibre,South,medium,0
+C00696,15,67.31,1027.24,1,month-to-month,,dsl,East,low,1
+C00697,72,60.24,4412.55,3,one-year,electronic check,fibre,East,low,0
+C00698,27,45.18,1233.38,0,one-year,card,dsl,South,,0
+C00699,27,49.43,1337.07,2,one-year,bank transfer,dsl,East,low,1
+C00700,11,62.19,663.42,1,month-to-month,mailed check,dsl,East,medium,0
+C00701,25,38.72,1001.18,3,month-to-month,electronic check,none,West,low,1
+C00702,2,112.42,235.28,2,month-to-month,bank transfer,fibre,West,high,1
+C00703,18,74.41,1334.89,1,month-to-month,bank transfer,fibre,East,medium,0
+C00704,62,75.01,4852.1,2,two-year,,fibre,West,high,0
+C00705,9,87.06,822.56,0,month-to-month,electronic check,fibre,North,high,0
+C00706,32,71.81,2294.75,2,one-year,bank transfer,fibre,West,low,1
+C00707,58,78.31,4643.88,3,one-year,mailed check,fibre,South,high,1
+C00708,34,75.02,2587.36,1,one-year,card,fibre,South,high,0
+C00709,2,48.54,94.53,2,month-to-month,card,fibre,West,medium,1
+C00710,22,81.48,1711.37,0,month-to-month,,fibre,South,high,0
+C00711,34,52.81,1787.16,4,two-year,mailed check,dsl,West,low,0
+C00712,32,95.25,3135.54,1,one-year,card,fibre,South,low,1
+C00713,48,55.07,2597.14,2,two-year,card,dsl,South,medium,0
+C00714,38,18.0,703.46,0,two-year,,none,South,,0
+C00715,23,51.9,1212.18,2,one-year,mailed check,dsl,South,medium,0
+C00716,44,54.91,2463.28,2,month-to-month,card,fibre,West,high,0
+C00717,37,65.47,2370.49,4,one-year,bank transfer,fibre,North,medium,0
+C00718,13,62.63,811.75,0,month-to-month,,dsl,East,medium,0
+C00719,25,52.03,1259.35,0,one-year,card,dsl,West,high,0
+C00720,70,91.07,6213.35,0,two-year,electronic check,fibre,South,high,0
+C00721,15,56.4,811.3,0,month-to-month,bank transfer,fibre,East,,1
+C00722,60,52.09,3008.75,3,month-to-month,electronic check,dsl,South,low,1
+C00723,10,74.29,721.39,2,month-to-month,bank transfer,fibre,North,medium,0
+C00724,61,66.47,,0,two-year,bank transfer,dsl,East,low,0
+C00725,26,88.07,2276.36,2,month-to-month,card,fibre,West,medium,0
+C00726,13,87.71,1113.66,3,month-to-month,electronic check,fibre,East,,1
+C00727,18,73.5,1370.78,3,month-to-month,electronic check,dsl,South,medium,1
+C00728,46,75.58,3485.42,5,month-to-month,card,fibre,North,low,0
+C00729,4,71.02,296.1,2,month-to-month,bank transfer,dsl,West,medium,0
+C00730,1,67.47,68.38,2,month-to-month,mailed check,fibre,West,low,1
+C00731,10,67.03,637.84,3,month-to-month,,fibre,West,high,1
+C00732,3,34.03,106.31,0,month-to-month,card,none,South,medium,0
+C00733,4,61.94,256.62,2,month-to-month,electronic check,fibre,East,low,1
+C00734,47,86.87,4138.12,5,month-to-month,bank transfer,fibre,South,medium,0
+C00735,10,26.22,263.11,1,month-to-month,card,none,North,high,0
+C00736,21,67.86,1418.35,0,one-year,bank transfer,dsl,North,medium,0
+C00737,16,54.29,867.09,4,month-to-month,card,dsl,South,medium,1
+C00738,1,80.67,82.84,2,month-to-month,bank transfer,fibre,East,,1
+C00739,5,86.11,431.12,4,month-to-month,electronic check,fibre,North,low,1
+C00740,9,47.05,409.73,0,month-to-month,electronic check,dsl,East,high,0
+C00741,19,71.53,1299.02,0,month-to-month,card,fibre,South,medium,1
+C00742,40,85.69,3299.47,2,month-to-month,electronic check,fibre,West,low,1
+C00743,30,54.65,1598.75,1,two-year,card,dsl,South,medium,0
+C00744,10,75.11,741.17,2,month-to-month,electronic check,fibre,North,medium,1
+C00745,3,79.01,246.33,2,month-to-month,bank transfer,fibre,South,medium,1
+C00746,23,99.13,2220.5,0,month-to-month,electronic check,fibre,West,low,0
+C00747,14,74.68,1026.66,3,month-to-month,card,fibre,South,low,1
+C00748,7,49.34,335.81,1,month-to-month,card,dsl,East,high,0
+C00749,21,18.0,379.73,0,one-year,bank transfer,none,West,low,1
+C00750,49,79.49,3940.62,2,two-year,card,fibre,South,low,0
+C00751,9,87.88,793.46,3,month-to-month,card,fibre,East,low,1
+C00752,24,65.03,1631.24,0,month-to-month,electronic check,dsl,North,high,0
+C00753,14,81.3,1194.58,3,month-to-month,electronic check,fibre,South,medium,0
+C00754,7,66.47,480.99,0,month-to-month,card,dsl,South,medium,0
+C00755,54,33.77,1879.25,2,one-year,mailed check,none,East,medium,0
+C00756,19,68.36,,1,month-to-month,electronic check,dsl,West,low,1
+C00757,25,91.81,2313.56,0,month-to-month,mailed check,fibre,South,medium,1
+C00758,43,43.84,1857.12,0,two-year,electronic check,none,South,medium,0
+C00759,16,77.96,1282.83,2,month-to-month,electronic check,fibre,West,,1
+C00760,16,18.0,278.55,1,month-to-month,bank transfer,none,South,medium,0
+C00761,28,62.96,1712.93,3,one-year,electronic check,dsl,East,medium,0
+C00762,6,64.37,368.4,2,month-to-month,mailed check,dsl,East,,0
+C00763,37,43.84,1639.75,2,month-to-month,card,none,North,low,0
+C00764,7,70.38,501.95,0,month-to-month,bank transfer,dsl,West,medium,0
+C00765,32,103.35,3142.95,3,two-year,card,fibre,South,medium,0
+C00766,9,87.44,787.81,0,month-to-month,mailed check,fibre,East,medium,1
+C00767,18,57.75,1026.7,2,month-to-month,bank transfer,dsl,South,medium,0
+C00768,31,38.38,1224.57,2,month-to-month,electronic check,dsl,West,medium,0
+C00769,14,83.7,1117.77,1,month-to-month,electronic check,fibre,East,medium,1
+C00770,43,48.37,1986.02,1,one-year,mailed check,dsl,North,medium,0
+C00771,39,57.54,2271.04,1,month-to-month,card,dsl,North,medium,0
+C00772,48,80.65,3906.68,5,one-year,electronic check,fibre,West,low,1
+C00773,25,85.66,2212.4,3,one-year,mailed check,fibre,East,low,0
+C00774,63,78.83,5012.11,1,two-year,card,fibre,South,,0
+C00775,31,91.22,2954.89,0,month-to-month,electronic check,fibre,North,medium,0
+C00776,35,,1625.46,2,two-year,bank transfer,fibre,North,low,0
+C00777,23,82.28,1873.12,0,one-year,electronic check,fibre,West,,0
+C00778,39,94.43,3858.69,2,month-to-month,bank transfer,fibre,West,high,0
+C00779,37,102.44,3641.52,0,one-year,card,fibre,South,medium,0
+C00780,42,63.78,2758.03,2,two-year,card,dsl,North,low,0
+C00781,31,100.22,2955.07,2,month-to-month,card,fibre,South,low,0
+C00782,31,27.03,836.8,3,two-year,card,none,North,low,0
+C00783,2,25.03,48.32,0,month-to-month,electronic check,none,East,high,0
+C00784,46,61.35,2850.0,2,one-year,bank transfer,dsl,East,low,0
+C00785,48,24.96,1233.8,2,two-year,,none,West,low,0
+C00786,1,18.0,17.16,2,month-to-month,electronic check,none,South,low,1
+C00787,31,73.82,2211.48,4,two-year,electronic check,fibre,North,low,0
+C00788,15,41.65,614.92,2,month-to-month,bank transfer,dsl,North,low,1
+C00789,24,86.34,2021.56,2,one-year,mailed check,fibre,South,high,0
+C00790,26,55.14,1416.9,1,one-year,,dsl,East,low,0
+C00791,32,50.68,1695.04,2,month-to-month,electronic check,dsl,North,low,0
+C00792,22,73.2,1546.18,3,month-to-month,card,fibre,West,medium,0
+C00793,18,86.06,1537.2,0,month-to-month,electronic check,fibre,South,medium,1
+C00794,22,34.37,752.9,2,month-to-month,mailed check,none,West,medium,1
+C00795,11,66.43,714.68,3,month-to-month,electronic check,fibre,South,medium,1
+C00796,11,64.55,694.32,2,month-to-month,electronic check,fibre,North,medium,1
+C00797,35,91.45,3269.49,1,month-to-month,electronic check,fibre,North,medium,0
+C00798,1,38.5,38.95,1,month-to-month,bank transfer,dsl,East,low,1
+C00799,38,61.57,2412.85,1,one-year,electronic check,dsl,East,low,0
+C00800,21,74.4,1547.57,0,one-year,electronic check,dsl,West,medium,0
+C00801,37,99.43,3718.17,2,one-year,mailed check,fibre,West,low,0
+C00802,1,88.85,92.35,1,month-to-month,bank transfer,fibre,North,medium,0
+C00803,72,88.51,6596.61,1,two-year,card,fibre,South,low,0
+C00804,48,82.02,4102.32,1,one-year,,dsl,North,medium,0
+C00805,3,26.99,79.1,3,month-to-month,card,dsl,North,low,0
+C00806,15,49.43,777.44,0,month-to-month,card,dsl,North,medium,0
+C00807,72,90.18,6698.39,1,one-year,bank transfer,fibre,North,medium,0
+C00808,7,50.95,367.16,0,month-to-month,,dsl,East,medium,1
+C00809,21,94.88,2025.87,3,month-to-month,card,fibre,North,low,1
+C00810,72,54.53,4115.9,3,two-year,card,dsl,North,medium,0
+C00811,22,56.58,1237.49,2,month-to-month,card,dsl,North,low,0
+C00812,5,51.7,264.74,0,month-to-month,mailed check,dsl,East,high,0
+C00813,55,48.73,2733.43,2,two-year,electronic check,dsl,East,low,0
+C00814,35,18.43,660.02,0,one-year,card,none,West,medium,0
+C00815,2,83.25,170.69,3,month-to-month,card,fibre,North,low,1
+C00816,37,70.71,2535.36,1,two-year,electronic check,fibre,North,medium,0
+C00817,31,91.44,2791.85,1,two-year,card,fibre,South,medium,0
+C00818,4,62.84,248.65,3,month-to-month,electronic check,dsl,East,medium,1
+C00819,27,68.19,1886.79,1,one-year,bank transfer,dsl,North,high,0
+C00820,1,41.45,42.35,1,month-to-month,,dsl,North,high,0
+C00821,15,34.61,536.46,2,month-to-month,,dsl,South,medium,0
+C00822,23,79.95,1891.9,2,one-year,electronic check,fibre,North,low,0
+C00823,15,89.79,1359.78,2,month-to-month,card,dsl,South,low,1
+C00824,39,,2638.85,1,one-year,mailed check,dsl,West,medium,0
+C00825,44,73.35,3271.12,2,two-year,mailed check,fibre,East,medium,0
+C00826,16,85.09,1414.14,3,month-to-month,electronic check,fibre,South,low,1
+C00827,22,88.73,1980.01,1,one-year,bank transfer,fibre,South,low,0
+C00828,72,63.58,4758.87,3,month-to-month,card,fibre,West,medium,0
+C00829,37,71.44,2775.19,4,two-year,electronic check,dsl,East,medium,0
+C00830,5,22.99,113.33,1,month-to-month,electronic check,none,East,high,0
+C00831,59,53.91,3251.71,1,one-year,card,dsl,West,medium,0
+C00832,42,80.29,3385.65,1,one-year,bank transfer,fibre,North,medium,0
+C00833,3,68.73,205.26,2,month-to-month,bank transfer,dsl,North,medium,0
+C00834,19,45.94,850.15,0,one-year,electronic check,dsl,South,medium,0
+C00835,25,59.52,1450.19,1,one-year,electronic check,fibre,South,medium,0
+C00836,72,58.88,4105.81,0,one-year,electronic check,dsl,North,medium,0
+C00837,46,55.48,2585.64,4,one-year,electronic check,fibre,North,low,1
+C00838,43,76.39,3167.19,4,two-year,card,fibre,West,medium,0
+C00839,1,94.24,93.59,2,month-to-month,,fibre,East,,1
+C00840,8,86.95,697.22,0,month-to-month,card,fibre,East,high,1
+C00841,6,37.51,223.67,0,month-to-month,electronic check,none,North,medium,0
+C00842,71,87.44,,1,one-year,bank transfer,fibre,South,medium,0
+C00843,1,108.92,108.3,3,month-to-month,bank transfer,fibre,East,low,1
+C00844,1,72.94,69.9,1,month-to-month,card,fibre,East,medium,0
+C00845,20,84.78,1779.06,5,month-to-month,card,fibre,East,low,1
+C00846,32,74.74,2474.19,3,two-year,electronic check,fibre,East,,0
+C00847,9,91.48,836.5,3,month-to-month,card,fibre,South,low,1
+C00848,20,54.26,,2,one-year,card,dsl,West,high,0
+C00849,4,100.63,387.55,0,month-to-month,electronic check,fibre,South,medium,1
+C00850,37,48.63,1847.16,0,two-year,bank transfer,dsl,North,medium,0
+C00851,17,96.89,1598.99,2,month-to-month,bank transfer,fibre,West,low,1
+C00852,24,62.12,1489.24,1,month-to-month,bank transfer,dsl,North,medium,0
+C00853,45,54.61,2378.32,1,two-year,electronic check,dsl,South,medium,0
+C00854,30,86.51,2661.16,3,two-year,bank transfer,fibre,North,medium,1
+C00855,9,,729.25,0,month-to-month,electronic check,fibre,North,medium,1
+C00856,3,29.27,85.64,0,month-to-month,mailed check,none,South,low,0
+C00857,21,52.52,1059.82,2,one-year,electronic check,dsl,North,medium,0
+C00858,41,46.58,1951.91,1,two-year,bank transfer,dsl,South,medium,0
+C00859,24,75.98,1786.29,3,month-to-month,electronic check,fibre,West,low,1
+C00860,4,59.8,239.64,1,month-to-month,bank transfer,fibre,North,high,1
+C00861,45,65.1,2880.36,1,one-year,bank transfer,dsl,West,low,0
+C00862,42,18.0,776.77,0,one-year,bank transfer,none,South,high,0
+C00863,65,77.39,4892.76,2,one-year,bank transfer,fibre,East,medium,0
+C00864,53,62.78,3474.02,0,one-year,card,dsl,South,medium,0
+C00865,13,65.07,830.8,0,month-to-month,bank transfer,dsl,South,medium,0
+C00866,34,58.7,1916.74,1,two-year,card,fibre,North,medium,0
+C00867,51,78.9,3919.4,4,two-year,bank transfer,fibre,East,medium,0
+C00868,72,85.52,5895.1,4,one-year,electronic check,fibre,West,low,1
+C00869,37,80.62,2973.61,4,month-to-month,mailed check,fibre,East,low,0
+C00870,7,71.13,485.47,0,month-to-month,card,dsl,East,high,0
+C00871,72,70.14,5245.04,2,one-year,electronic check,fibre,East,medium,0
+C00872,5,55.41,277.52,2,month-to-month,bank transfer,fibre,South,medium,0
+C00873,44,64.72,2771.75,0,two-year,,dsl,North,medium,0
+C00874,12,48.55,579.76,2,month-to-month,card,dsl,East,medium,1
+C00875,53,33.9,1742.08,0,one-year,card,dsl,West,high,0
+C00876,41,53.1,2107.16,0,two-year,card,dsl,South,low,0
+C00877,24,94.77,2229.14,1,month-to-month,card,fibre,West,medium,1
+C00878,9,39.84,344.52,0,month-to-month,bank transfer,dsl,West,medium,1
+C00879,22,108.03,2302.66,1,one-year,bank transfer,fibre,North,medium,0
+C00880,47,69.95,3431.66,4,one-year,card,fibre,East,medium,0
+C00881,13,81.04,1071.09,1,month-to-month,card,fibre,East,low,1
+C00882,47,40.37,1977.29,0,one-year,card,dsl,South,low,0
+C00883,44,55.5,2382.62,1,two-year,bank transfer,dsl,East,low,0
+C00884,8,78.4,649.59,2,month-to-month,bank transfer,fibre,West,medium,1
+C00885,9,18.0,159.77,0,month-to-month,bank transfer,none,East,high,0
+C00886,72,88.91,6173.75,0,month-to-month,card,dsl,West,high,0
+C00887,39,74.06,2976.35,1,month-to-month,card,fibre,West,medium,1
+C00888,35,49.07,,1,month-to-month,mailed check,dsl,West,high,0
+C00889,26,91.63,2359.71,4,month-to-month,card,fibre,West,medium,1
+C00890,21,,1013.53,2,one-year,card,none,North,medium,0
+C00891,19,93.52,1797.7,1,month-to-month,card,fibre,North,medium,1
+C00892,43,65.59,2825.47,1,two-year,mailed check,fibre,North,medium,0
+C00893,17,82.57,1383.14,1,month-to-month,electronic check,fibre,North,low,0
+C00894,10,57.42,549.8,2,month-to-month,electronic check,fibre,East,low,1
+C00895,54,65.82,3728.79,2,one-year,,dsl,East,medium,0
+C00896,55,35.38,1882.61,2,two-year,card,dsl,South,medium,0
+C00897,18,70.36,1235.49,7,month-to-month,mailed check,fibre,North,low,1
+C00898,9,54.96,481.58,0,month-to-month,card,dsl,East,high,0
+C00899,11,30.34,347.35,3,month-to-month,electronic check,none,South,low,1
+C00900,17,51.87,905.04,1,month-to-month,bank transfer,dsl,West,low,0
+C00901,1,73.23,72.92,1,month-to-month,bank transfer,dsl,North,medium,1
+C00902,13,88.68,1205.34,2,month-to-month,mailed check,fibre,South,medium,1
+C00903,24,87.74,2011.59,2,month-to-month,card,fibre,North,low,0
+C00904,29,18.0,542.55,3,month-to-month,mailed check,none,South,medium,0
+C00905,40,75.39,,0,two-year,bank transfer,dsl,West,medium,0
+C00906,27,45.36,1211.39,1,one-year,electronic check,dsl,South,low,0
+C00907,69,45.85,3022.55,2,month-to-month,mailed check,none,South,medium,0
+C00908,3,104.27,328.42,2,month-to-month,card,fibre,South,low,0
+C00909,11,61.15,700.52,0,month-to-month,mailed check,dsl,South,medium,0
+C00910,11,,1024.8,2,month-to-month,electronic check,fibre,East,low,1
+C00911,37,43.0,1546.11,1,one-year,electronic check,fibre,West,high,0
+C00912,46,52.66,2368.29,2,two-year,card,dsl,East,medium,0
+C00913,46,93.23,4266.94,1,two-year,bank transfer,fibre,East,medium,0
+C00914,38,36.09,1347.12,3,two-year,electronic check,none,South,medium,0
+C00915,56,65.36,3484.95,2,two-year,bank transfer,fibre,North,low,0
+C00916,59,51.48,3084.78,0,two-year,card,dsl,East,medium,0
+C00917,28,24.56,695.48,0,month-to-month,card,dsl,West,low,0
+C00918,11,59.96,686.23,1,month-to-month,mailed check,dsl,East,high,0
+C00919,16,18.0,287.33,2,month-to-month,card,none,North,high,0
+C00920,23,93.57,2118.69,2,one-year,electronic check,fibre,East,low,0
+C00921,16,94.19,1508.78,3,month-to-month,mailed check,fibre,West,low,1
+C00922,46,74.31,3313.9,1,two-year,card,fibre,North,medium,0
+C00923,28,86.26,2445.6,2,one-year,card,fibre,North,low,1
+C00924,61,22.39,1402.67,1,month-to-month,electronic check,none,East,medium,1
+C00925,5,57.9,279.47,1,month-to-month,card,dsl,South,medium,1
+C00926,1,66.23,65.03,3,month-to-month,electronic check,fibre,East,medium,1
+C00927,57,87.47,5169.17,1,month-to-month,electronic check,fibre,East,low,1
+C00928,65,35.31,2296.42,1,two-year,electronic check,dsl,South,medium,0
+C00929,21,33.04,696.05,1,one-year,bank transfer,dsl,North,low,0
+C00930,28,78.54,2248.03,2,one-year,electronic check,fibre,East,low,0
+C00931,3,52.47,158.64,1,month-to-month,electronic check,dsl,South,low,0
+C00932,16,58.27,892.19,0,month-to-month,card,dsl,West,medium,0
+C00933,3,47.21,145.94,1,month-to-month,electronic check,dsl,South,medium,0
+C00934,35,102.63,3743.93,4,one-year,mailed check,fibre,North,medium,0
+C00935,25,56.93,,2,one-year,electronic check,dsl,West,medium,0
+C00936,48,82.79,3823.41,1,month-to-month,bank transfer,fibre,East,medium,0
+C00937,41,82.37,3445.38,0,two-year,bank transfer,fibre,East,medium,0
+C00938,18,67.03,1219.15,2,month-to-month,card,dsl,West,low,0
+C00939,36,61.91,2202.58,1,two-year,card,dsl,West,low,0
+C00940,11,85.3,941.98,5,month-to-month,card,fibre,West,low,1
+C00941,1,33.83,34.52,1,month-to-month,mailed check,none,West,,1
+C00942,36,58.1,2092.54,2,two-year,card,fibre,South,medium,0
+C00943,15,33.56,485.29,0,month-to-month,electronic check,dsl,North,medium,0
+C00944,5,24.09,115.5,2,month-to-month,card,none,East,medium,0
+C00945,3,52.63,156.92,1,month-to-month,card,dsl,West,medium,0
+C00946,1,61.96,64.58,2,month-to-month,bank transfer,dsl,West,medium,0
+C00947,27,55.24,1500.1,1,one-year,,dsl,East,medium,0
+C00948,67,61.98,4093.78,1,two-year,electronic check,dsl,East,,0
+C00949,52,40.05,2167.72,1,two-year,mailed check,dsl,East,medium,0
+C00950,62,54.87,3364.05,1,month-to-month,mailed check,dsl,North,medium,0
+C00951,22,63.91,1407.31,1,month-to-month,card,fibre,North,medium,1
+C00952,8,59.64,458.82,2,month-to-month,electronic check,dsl,North,high,0
+C00953,35,57.46,2058.84,2,month-to-month,card,fibre,West,medium,0
+C00954,25,29.18,744.11,3,month-to-month,mailed check,none,West,medium,0
+C00955,41,62.37,2632.41,1,two-year,bank transfer,fibre,South,low,0
+C00956,72,75.4,5333.9,2,two-year,bank transfer,fibre,South,low,0
+C00957,72,35.74,2556.82,0,one-year,card,none,South,low,0
+C00958,2,82.73,159.97,3,month-to-month,card,fibre,North,medium,0
+C00959,56,60.25,3530.72,3,month-to-month,card,fibre,South,medium,0
+C00960,15,46.93,674.81,1,month-to-month,mailed check,dsl,South,low,1
+C00961,18,61.98,1132.26,1,month-to-month,electronic check,fibre,East,medium,0
+C00962,26,59.66,1583.0,2,month-to-month,mailed check,fibre,West,medium,0
+C00963,3,56.41,163.44,0,month-to-month,card,dsl,North,high,0
+C00964,13,86.72,1112.18,1,month-to-month,electronic check,fibre,South,,1
+C00965,33,85.29,2685.98,2,two-year,card,fibre,West,medium,1
+C00966,10,87.23,877.24,0,month-to-month,bank transfer,fibre,West,medium,1
+C00967,32,79.86,2682.0,2,two-year,bank transfer,fibre,West,medium,0
+C00968,11,76.72,838.0,1,month-to-month,card,fibre,East,medium,0
+C00969,22,67.12,1549.0,4,one-year,electronic check,fibre,North,low,1
+C00970,13,49.72,622.2,0,month-to-month,card,dsl,West,high,0
+C00971,19,39.14,735.66,1,month-to-month,bank transfer,dsl,East,medium,1
+C00972,51,,3706.07,2,month-to-month,electronic check,fibre,West,medium,1
+C00973,16,81.07,1345.98,3,month-to-month,card,fibre,West,medium,0
+C00974,50,23.59,1158.69,1,two-year,mailed check,none,South,medium,0
+C00975,1,,,1,month-to-month,bank transfer,dsl,North,low,1
+C00976,35,63.85,2321.05,2,one-year,electronic check,fibre,East,medium,0
+C00977,10,53.5,549.28,1,month-to-month,electronic check,dsl,South,high,0
+C00978,16,62.92,1019.65,2,month-to-month,electronic check,fibre,North,high,0
+C00979,5,50.35,,1,month-to-month,electronic check,dsl,South,medium,0
+C00980,10,20.83,199.41,2,month-to-month,mailed check,none,West,low,1
+C00981,68,35.14,2416.91,2,two-year,electronic check,none,South,low,1
+C00982,47,74.6,3506.3,0,two-year,card,fibre,South,medium,0
+C00983,48,77.7,3631.9,2,one-year,card,fibre,East,medium,0
+C00984,13,74.84,952.76,2,month-to-month,electronic check,fibre,East,high,1
+C00985,3,63.19,187.52,1,month-to-month,card,fibre,South,low,1
+C00986,30,72.17,2164.13,2,two-year,card,fibre,West,high,0
+C00987,12,50.42,598.4,1,month-to-month,card,dsl,East,medium,1
+C00988,15,80.89,1199.67,0,month-to-month,bank transfer,fibre,North,medium,0
+C00989,7,31.71,213.44,1,month-to-month,card,none,South,high,0
+C00990,32,77.18,2560.05,4,one-year,electronic check,fibre,West,medium,0
+C00991,46,76.97,3579.27,2,one-year,electronic check,fibre,North,medium,1
+C00992,28,18.0,486.16,0,one-year,electronic check,none,North,medium,0
+C00993,40,61.48,2440.48,4,one-year,bank transfer,dsl,East,medium,0
+C00994,56,71.65,3978.98,5,month-to-month,bank transfer,fibre,South,low,1
+C00995,62,63.97,4006.05,3,two-year,electronic check,dsl,South,low,0
+C00996,9,95.8,871.59,5,month-to-month,bank transfer,fibre,South,low,1
+C00997,23,77.75,1814.22,1,one-year,electronic check,fibre,North,low,0
+C00998,14,42.72,609.92,0,month-to-month,card,dsl,South,high,0
+C00999,66,79.8,5057.89,1,two-year,mailed check,fibre,North,medium,0
+C01000,20,59.18,1160.51,2,month-to-month,card,dsl,East,medium,0
+C01001,49,76.21,3554.05,1,month-to-month,electronic check,fibre,East,low,0
+C01002,51,48.23,2448.57,1,month-to-month,electronic check,dsl,West,high,0
+C01003,12,61.76,735.89,2,month-to-month,card,dsl,North,low,0
+C01004,28,85.97,2463.57,1,month-to-month,electronic check,fibre,South,high,1
+C01005,30,75.84,2199.46,1,one-year,card,fibre,South,high,0
+C01006,1,,60.94,0,month-to-month,electronic check,fibre,East,medium,0
+C01007,72,60.48,4270.38,1,two-year,electronic check,dsl,East,medium,0
+C01008,16,45.79,723.99,0,month-to-month,card,dsl,West,medium,0
+C01009,30,57.57,1764.97,1,one-year,card,dsl,West,,0
+C01010,2,81.81,156.61,3,month-to-month,electronic check,fibre,West,,1
+C01011,23,57.33,1297.86,1,one-year,card,fibre,North,medium,0
+C01012,24,55.97,1328.68,1,one-year,mailed check,dsl,North,medium,0
+C01013,22,86.17,1936.64,3,month-to-month,electronic check,fibre,West,low,1
+C01014,68,62.65,4132.06,2,two-year,electronic check,dsl,West,medium,0
+C01015,1,81.41,85.05,3,month-to-month,card,fibre,South,medium,0
+C01016,18,56.27,1063.28,2,month-to-month,electronic check,fibre,North,medium,0
+C01017,20,70.32,1451.25,0,one-year,mailed check,dsl,East,high,0
+C01018,37,59.93,2173.0,0,two-year,card,dsl,East,medium,0
+C01019,72,40.56,2968.17,2,month-to-month,bank transfer,dsl,West,low,0
+C01020,18,70.55,1216.96,5,month-to-month,card,fibre,East,low,1
+C01021,43,27.77,1238.44,1,two-year,bank transfer,none,West,medium,0
+C01022,57,63.16,3605.88,0,one-year,electronic check,dsl,West,high,0
+C01023,52,19.14,963.08,2,two-year,bank transfer,none,North,medium,0
+C01024,5,64.91,318.95,0,month-to-month,electronic check,dsl,North,medium,1
+C01025,33,33.49,1138.41,3,one-year,bank transfer,dsl,West,low,0
+C01026,15,42.49,660.95,3,month-to-month,card,dsl,North,low,0
+C01027,46,55.23,2545.59,2,two-year,card,fibre,North,,0
+C01028,7,69.23,483.66,2,month-to-month,,fibre,West,medium,0
+C01029,37,73.1,2772.52,1,one-year,electronic check,dsl,North,medium,0
+C01030,10,104.69,1081.05,1,month-to-month,bank transfer,fibre,North,,1
+C01031,63,82.82,5355.85,4,one-year,electronic check,fibre,North,,0
+C01032,24,18.0,427.01,0,one-year,card,none,South,high,0
+C01033,20,77.34,1568.75,1,month-to-month,card,fibre,East,medium,0
+C01034,49,60.68,3079.57,2,two-year,card,dsl,East,low,0
+C01035,8,36.24,279.82,2,month-to-month,mailed check,dsl,West,low,0
+C01036,22,73.13,1590.86,2,one-year,electronic check,fibre,East,high,0
+C01037,2,42.22,80.7,2,month-to-month,electronic check,none,West,,0
+C01038,18,67.45,1203.04,3,month-to-month,card,fibre,North,high,0
+C01039,10,18.0,184.9,1,month-to-month,card,none,South,low,1
+C01040,11,55.16,588.38,1,month-to-month,electronic check,dsl,South,medium,1
+C01041,9,83.4,753.74,4,month-to-month,bank transfer,fibre,North,low,1
+C01042,20,72.5,1382.8,0,one-year,mailed check,fibre,West,high,0
+C01043,29,80.92,2440.0,3,one-year,electronic check,fibre,North,medium,0
+C01044,18,87.3,1621.69,1,one-year,bank transfer,fibre,South,medium,0
+C01045,8,103.54,830.34,1,month-to-month,electronic check,fibre,South,low,0
+C01046,13,23.49,311.65,0,month-to-month,mailed check,none,North,medium,0
+C01047,43,79.5,3283.1,4,month-to-month,bank transfer,fibre,West,medium,1
+C01048,20,73.33,1517.23,1,one-year,electronic check,dsl,North,,0
+C01049,46,73.41,3449.55,2,two-year,mailed check,fibre,North,medium,0
+C01050,8,18.0,138.53,1,month-to-month,card,none,South,medium,1
+C01051,47,83.0,4088.52,4,one-year,mailed check,fibre,North,low,1
+C01052,5,92.91,442.37,1,month-to-month,card,fibre,West,medium,1
+C01053,9,59.33,540.83,1,month-to-month,electronic check,dsl,North,medium,1
+C01054,22,78.84,1677.55,1,month-to-month,electronic check,fibre,South,medium,1
+C01055,7,37.62,269.11,0,month-to-month,electronic check,dsl,South,medium,0
+C01056,46,79.3,3491.09,0,one-year,bank transfer,fibre,North,medium,0
+C01057,31,69.8,2073.16,3,two-year,electronic check,dsl,North,low,0
+C01058,5,40.19,200.27,0,month-to-month,card,dsl,East,medium,0
+C01059,1,52.06,54.63,3,month-to-month,card,dsl,North,low,0
+C01060,42,75.35,3093.97,1,one-year,card,fibre,North,medium,0
+C01061,39,71.63,2825.01,3,two-year,electronic check,fibre,South,low,0
+C01062,34,82.98,2826.57,6,one-year,bank transfer,fibre,South,,0
+C01063,2,85.32,176.48,1,month-to-month,card,fibre,South,medium,0
+C01064,33,85.19,2751.84,2,one-year,mailed check,fibre,West,medium,0
+C01065,6,18.0,108.59,0,month-to-month,bank transfer,none,South,high,0
+C01066,49,35.25,1805.08,2,two-year,bank transfer,dsl,East,medium,0
+C01067,6,58.15,343.06,1,month-to-month,bank transfer,dsl,West,,0
+C01068,27,73.93,1984.01,2,one-year,card,fibre,North,medium,0
+C01069,9,102.06,954.25,2,month-to-month,electronic check,fibre,East,medium,0
+C01070,72,77.61,5494.32,0,month-to-month,bank transfer,dsl,South,low,0
+C01071,66,103.89,6774.92,2,two-year,card,fibre,East,high,0
+C01072,18,68.72,1212.73,3,one-year,mailed check,fibre,North,,0
+C01073,7,61.83,446.21,2,month-to-month,electronic check,dsl,South,medium,1
+C01074,69,65.45,4710.41,1,two-year,electronic check,dsl,North,high,0
+C01075,45,34.1,1554.62,1,two-year,mailed check,none,West,,0
+C01076,23,75.75,1763.79,1,month-to-month,mailed check,fibre,East,medium,0
+C01077,4,70.35,278.3,1,month-to-month,bank transfer,dsl,North,medium,0
+C01078,2,80.01,152.22,1,month-to-month,electronic check,fibre,East,high,1
+C01079,23,81.54,1814.27,3,one-year,electronic check,fibre,West,low,0
+C01080,57,36.55,2009.9,0,month-to-month,card,dsl,East,low,0
+C01081,15,87.74,1265.55,3,month-to-month,card,fibre,South,low,1
+C01082,40,51.88,2107.17,2,two-year,card,dsl,West,medium,0
+C01083,48,85.58,3958.46,1,two-year,,fibre,North,low,0
+C01084,50,82.82,3969.41,5,two-year,electronic check,fibre,North,low,0
+C01085,50,27.17,1342.55,0,two-year,electronic check,none,North,medium,0
+C01086,25,79.45,1936.4,1,one-year,bank transfer,fibre,West,low,0
+C01087,72,64.44,4475.37,1,one-year,card,dsl,East,low,0
+C01088,23,77.61,1721.86,1,one-year,bank transfer,fibre,East,low,0
+C01089,38,18.0,667.32,1,month-to-month,bank transfer,none,East,medium,0
+C01090,10,86.83,871.5,0,month-to-month,mailed check,fibre,South,high,0
+C01091,16,70.29,1153.67,3,month-to-month,mailed check,fibre,North,medium,1
+C01092,36,39.11,1457.63,2,one-year,mailed check,dsl,West,medium,0
+C01093,3,,208.3,3,month-to-month,mailed check,fibre,West,low,1
+C01094,6,83.4,506.82,4,month-to-month,mailed check,fibre,North,low,1
+C01095,37,23.84,918.04,1,one-year,bank transfer,none,North,medium,0
+C01096,31,29.41,913.51,1,month-to-month,card,dsl,East,medium,1
+C01097,16,50.4,817.15,1,month-to-month,card,dsl,North,high,0
+C01098,72,69.03,4926.23,3,two-year,bank transfer,dsl,East,medium,0
+C01099,41,49.58,1997.69,2,two-year,card,dsl,West,high,0
+C01100,8,23.01,180.98,2,month-to-month,card,none,South,low,1
+C01101,32,67.52,2084.65,1,month-to-month,,dsl,South,high,0
+C01102,1,89.55,92.21,2,month-to-month,card,fibre,West,high,1
+C01103,48,92.26,4231.58,5,one-year,mailed check,fibre,South,low,0
+C01104,35,21.73,773.84,3,two-year,electronic check,dsl,North,medium,0
+C01105,17,75.8,1335.56,1,month-to-month,electronic check,dsl,North,low,1
+C01106,18,62.64,1127.23,1,one-year,electronic check,dsl,West,high,1
+C01107,7,109.54,733.82,1,month-to-month,bank transfer,fibre,West,high,0
+C01108,52,70.61,3645.44,4,month-to-month,electronic check,fibre,North,low,1
+C01109,52,33.84,1732.09,0,two-year,card,dsl,West,high,0
+C01110,6,55.09,346.59,0,month-to-month,mailed check,dsl,North,medium,0
+C01111,4,76.7,312.67,2,month-to-month,bank transfer,fibre,North,medium,0
+C01112,9,62.84,578.08,1,month-to-month,card,dsl,South,high,0
+C01113,22,67.9,1496.16,3,one-year,electronic check,dsl,South,medium,0
+C01114,69,23.95,1687.16,2,two-year,electronic check,none,West,medium,0
+C01115,49,77.11,3862.49,6,two-year,bank transfer,fibre,East,low,0
+C01116,18,31.27,538.45,2,month-to-month,electronic check,none,North,high,0
+C01117,41,51.92,2069.67,2,month-to-month,card,dsl,East,low,0
+C01118,36,50.92,1743.84,0,one-year,electronic check,dsl,West,medium,0
+C01119,72,92.45,6662.93,2,month-to-month,card,fibre,East,,1
+C01120,38,70.12,2764.69,6,two-year,card,dsl,North,low,0
+C01121,35,,2406.43,4,one-year,card,dsl,North,medium,0
+C01122,5,77.98,389.91,1,month-to-month,bank transfer,fibre,South,medium,1
+C01123,44,54.32,2491.89,1,two-year,bank transfer,fibre,South,medium,0
+C01124,10,53.22,514.76,1,month-to-month,bank transfer,dsl,South,,0
+C01125,4,45.9,175.79,0,month-to-month,card,dsl,North,medium,1
+C01126,24,78.44,1961.12,1,one-year,card,fibre,North,,0
+C01127,8,71.95,598.78,0,month-to-month,bank transfer,fibre,East,medium,0
+C01128,31,79.75,2517.49,1,one-year,card,fibre,West,medium,0
+C01129,40,18.0,701.71,2,one-year,electronic check,none,East,low,0
+C01130,38,18.0,716.13,0,two-year,mailed check,none,South,high,0
+C01131,35,94.67,3401.37,2,two-year,bank transfer,fibre,West,medium,0
+C01132,36,68.36,2503.75,3,month-to-month,mailed check,fibre,East,,1
+C01133,50,80.0,3889.16,0,month-to-month,card,fibre,East,medium,0
+C01134,29,66.45,1929.57,0,one-year,card,dsl,East,medium,0
+C01135,41,35.97,1522.34,2,two-year,electronic check,none,West,high,0
+C01136,1,64.54,66.87,0,month-to-month,electronic check,dsl,East,medium,1
+C01137,6,83.63,504.86,0,month-to-month,electronic check,fibre,East,high,0
+C01138,5,88.69,444.46,4,month-to-month,card,fibre,East,low,0
+C01139,15,96.48,1475.81,2,month-to-month,electronic check,fibre,West,medium,1
+C01140,20,60.1,1205.4,4,one-year,,dsl,West,medium,0
+C01141,7,32.95,228.75,2,month-to-month,bank transfer,dsl,South,medium,0
+C01142,41,48.66,1912.35,1,one-year,,dsl,East,high,0
+C01143,50,88.36,4252.79,2,two-year,mailed check,fibre,North,medium,0
+C01144,36,18.0,664.87,2,two-year,card,none,East,high,0
+C01145,3,99.44,284.14,1,month-to-month,electronic check,fibre,West,high,1
+C01146,7,54.24,362.68,2,month-to-month,electronic check,dsl,East,low,1
+C01147,31,26.02,839.26,1,one-year,electronic check,none,South,medium,0
+C01148,44,68.5,3075.48,0,two-year,electronic check,dsl,East,low,0
+C01149,2,22.81,43.36,2,month-to-month,mailed check,none,South,medium,1
+C01150,38,82.12,,3,two-year,card,fibre,South,low,0
+C01151,34,65.79,2295.76,0,month-to-month,card,dsl,North,low,1
+C01152,72,62.33,4450.78,1,two-year,electronic check,fibre,East,low,0
+C01153,53,51.58,2725.21,3,month-to-month,bank transfer,dsl,North,low,0
+C01154,2,89.95,179.16,0,month-to-month,card,fibre,South,medium,0
+C01155,47,80.79,3684.03,2,month-to-month,card,fibre,West,low,1
+C01156,29,97.61,2893.36,2,month-to-month,bank transfer,fibre,West,low,1
+C01157,19,61.09,1114.63,4,month-to-month,card,fibre,South,low,1
+C01158,12,34.72,416.94,1,month-to-month,card,dsl,West,medium,0
+C01159,5,64.24,310.6,2,month-to-month,mailed check,dsl,North,low,0
+C01160,34,90.39,2933.9,4,one-year,bank transfer,fibre,West,low,0
+C01161,2,22.68,43.74,2,month-to-month,mailed check,none,South,medium,1
+C01162,19,29.8,587.11,0,one-year,mailed check,none,West,medium,1
+C01163,72,88.94,6196.3,4,two-year,card,fibre,West,low,1
+C01164,5,70.23,343.37,2,month-to-month,electronic check,fibre,East,high,1
+C01165,42,46.52,1883.13,0,month-to-month,electronic check,dsl,East,high,0
+C01166,33,57.28,1934.76,0,two-year,electronic check,dsl,East,medium,0
+C01167,35,90.85,3162.4,3,two-year,card,fibre,North,low,0
+C01168,4,41.01,171.32,1,month-to-month,card,dsl,North,medium,0
+C01169,40,77.62,3155.82,1,two-year,card,fibre,South,medium,0
+C01170,35,77.07,2705.92,1,month-to-month,electronic check,fibre,South,medium,0
+C01171,42,60.02,2560.32,1,month-to-month,mailed check,dsl,East,medium,0
+C01172,30,54.9,1571.31,4,one-year,electronic check,dsl,South,high,0
+C01173,20,48.45,1012.67,0,month-to-month,electronic check,dsl,East,low,1
+C01174,20,94.98,1986.3,0,one-year,mailed check,fibre,North,medium,0
+C01175,2,73.53,143.77,1,month-to-month,electronic check,fibre,North,high,0
+C01176,48,76.49,3718.62,3,one-year,card,fibre,West,low,0
+C01177,9,60.9,531.76,1,month-to-month,mailed check,fibre,West,high,0
+C01178,26,71.44,1866.26,2,month-to-month,bank transfer,fibre,West,medium,0
+C01179,10,61.19,628.47,0,month-to-month,card,dsl,South,high,0
+C01180,14,58.85,860.14,2,month-to-month,bank transfer,dsl,East,high,0
+C01181,35,62.19,2141.65,0,one-year,mailed check,dsl,East,medium,0
+C01182,11,86.61,971.15,1,month-to-month,card,fibre,South,low,1
+C01183,9,105.05,965.91,2,month-to-month,bank transfer,fibre,East,low,1
+C01184,9,46.03,402.72,2,month-to-month,card,dsl,East,high,0
+C01185,3,,184.05,3,month-to-month,card,fibre,South,low,0
+C01186,52,18.0,950.55,1,two-year,card,none,South,medium,0
+C01187,3,71.56,220.35,5,month-to-month,electronic check,fibre,South,low,1
+C01188,34,43.31,1546.16,0,two-year,mailed check,dsl,West,low,1
+C01189,10,26.12,249.19,1,month-to-month,card,none,West,high,0
+C01190,28,70.03,1902.47,1,one-year,card,dsl,West,medium,0
+C01191,9,73.48,637.85,2,month-to-month,card,dsl,West,low,0
+C01192,31,61.05,1827.15,4,month-to-month,card,dsl,South,low,1
+C01193,36,105.7,3787.79,0,two-year,electronic check,fibre,West,low,1
+C01194,68,50.72,3579.52,5,two-year,electronic check,dsl,North,low,0
+C01195,46,18.0,823.75,3,two-year,electronic check,none,West,low,0
+C01196,15,37.64,,0,month-to-month,bank transfer,none,South,low,1
+C01197,17,57.94,972.82,3,month-to-month,electronic check,fibre,South,low,1
+C01198,22,70.94,1532.54,1,one-year,card,fibre,North,medium,0
+C01199,17,61.24,,2,month-to-month,card,dsl,North,medium,1
+C01200,48,53.77,2621.11,1,one-year,mailed check,dsl,South,,1
+C01201,38,77.71,2908.95,3,one-year,electronic check,fibre,East,low,0
+C01202,20,65.83,1371.13,0,one-year,mailed check,fibre,North,medium,0
+C01203,39,79.87,3114.47,1,two-year,mailed check,fibre,West,medium,0
+C01204,18,67.04,1169.1,1,one-year,electronic check,dsl,North,medium,0
+C01205,8,80.24,640.84,0,month-to-month,mailed check,fibre,West,high,0
+C01206,3,70.04,213.79,2,month-to-month,bank transfer,fibre,South,medium,0
+C01207,29,65.03,1860.81,1,one-year,card,fibre,South,,0
+C01208,1,18.0,18.62,0,month-to-month,card,none,North,high,0
+C01209,49,84.71,4164.55,0,month-to-month,card,fibre,West,high,0
+C01210,7,84.12,586.94,3,month-to-month,card,fibre,East,low,1
+C01211,44,45.39,2068.8,0,one-year,bank transfer,dsl,North,medium,0
+C01212,34,53.47,1811.24,1,two-year,electronic check,fibre,North,medium,0
+C01213,41,30.04,1221.1,0,one-year,electronic check,none,East,high,0
+C01214,8,18.0,138.29,0,month-to-month,electronic check,none,West,low,1
+C01215,17,88.27,1479.96,3,month-to-month,card,fibre,North,high,0
+C01216,49,70.93,3439.79,1,month-to-month,electronic check,fibre,North,high,0
+C01217,20,68.15,1319.47,2,month-to-month,bank transfer,fibre,East,medium,0
+C01218,21,81.84,,3,one-year,card,fibre,North,low,1
+C01219,58,108.29,6057.12,1,one-year,card,fibre,South,medium,0
+C01220,24,88.99,2076.75,1,month-to-month,bank transfer,fibre,North,medium,0
+C01221,35,81.63,2874.5,2,month-to-month,card,fibre,South,medium,1
+C01222,41,59.31,2375.53,2,month-to-month,electronic check,dsl,East,low,0
+C01223,35,58.99,2093.49,2,two-year,electronic check,fibre,South,low,0
+C01224,25,66.53,1694.94,1,one-year,electronic check,fibre,South,high,0
+C01225,26,24.87,633.77,1,month-to-month,card,dsl,South,medium,0
+C01226,31,100.76,2994.68,0,two-year,electronic check,fibre,East,medium,0
+C01227,7,98.33,687.58,4,month-to-month,electronic check,fibre,North,low,1
+C01228,8,84.71,650.09,1,month-to-month,card,fibre,North,low,1
+C01229,66,81.62,5395.13,3,two-year,electronic check,fibre,North,,0
+C01230,51,61.38,3201.19,2,month-to-month,bank transfer,fibre,West,medium,0
+C01231,3,52.37,159.0,3,month-to-month,bank transfer,dsl,East,low,1
+C01232,30,46.51,1388.08,1,one-year,card,none,North,low,0
+C01233,24,81.58,2045.22,2,month-to-month,bank transfer,fibre,South,medium,0
+C01234,26,73.22,1827.9,1,one-year,card,fibre,South,medium,1
+C01235,14,33.9,,0,month-to-month,card,dsl,North,,0
+C01236,5,71.56,368.54,1,month-to-month,card,dsl,West,medium,1
+C01237,26,79.16,2041.64,1,month-to-month,mailed check,fibre,West,medium,0
+C01238,26,58.92,1478.74,0,month-to-month,card,fibre,North,medium,0
+C01239,10,68.91,665.39,2,month-to-month,bank transfer,fibre,North,high,1
+C01240,8,39.67,330.75,0,month-to-month,bank transfer,dsl,South,medium,1
+C01241,36,78.42,2747.94,1,two-year,mailed check,fibre,East,low,0
+C01242,1,82.49,85.58,2,month-to-month,electronic check,fibre,West,medium,1
+C01243,15,73.96,1109.77,3,month-to-month,mailed check,fibre,South,low,1
+C01244,37,89.32,3292.19,4,month-to-month,card,fibre,South,low,0
+C01245,2,55.95,113.24,2,month-to-month,,dsl,North,medium,0
+C01246,9,,592.37,1,month-to-month,electronic check,dsl,North,medium,0
+C01247,56,50.71,2819.42,0,one-year,bank transfer,dsl,North,low,0
+C01248,30,116.54,3649.5,1,month-to-month,,fibre,South,high,0
+C01249,53,73.23,3779.6,3,two-year,mailed check,fibre,East,low,1
+C01250,30,44.16,1380.65,1,two-year,bank transfer,dsl,North,medium,0
+C01251,20,42.68,895.79,1,month-to-month,mailed check,dsl,North,low,1
+C01252,6,77.47,443.99,1,month-to-month,electronic check,fibre,West,medium,1
+C01253,26,59.37,1548.46,1,month-to-month,card,fibre,West,medium,0
+C01254,23,58.53,1302.01,0,one-year,bank transfer,dsl,East,high,1
+C01255,1,32.14,32.53,1,month-to-month,card,dsl,East,medium,0
+C01256,43,26.94,1215.13,2,two-year,electronic check,none,East,high,0
+C01257,24,38.78,967.66,3,one-year,card,dsl,South,low,1
+C01258,46,75.42,3616.71,3,two-year,bank transfer,fibre,North,,0
+C01259,6,87.25,508.49,2,month-to-month,electronic check,fibre,South,medium,1
+C01260,57,107.65,6162.02,3,two-year,card,fibre,East,,0
+C01261,12,42.06,491.34,1,month-to-month,card,dsl,East,low,1
+C01262,5,53.2,276.62,2,month-to-month,electronic check,dsl,East,low,1
+C01263,23,71.31,1589.48,2,month-to-month,card,fibre,East,low,1
+C01264,72,18.0,1251.15,2,two-year,bank transfer,none,North,high,0
+C01265,59,71.42,4008.22,2,one-year,bank transfer,fibre,East,medium,0
+C01266,72,89.89,6266.23,1,two-year,card,fibre,West,medium,0
+C01267,21,74.14,1508.64,3,month-to-month,card,fibre,East,medium,0
+C01268,47,51.99,2340.29,0,two-year,electronic check,none,East,low,0
+C01269,1,29.99,31.09,0,month-to-month,mailed check,none,North,medium,1
+C01270,5,42.88,220.4,0,month-to-month,card,dsl,West,high,0
+C01271,37,20.6,743.49,0,two-year,mailed check,none,South,medium,0
+C01272,14,18.0,259.14,0,month-to-month,electronic check,none,South,medium,0
+C01273,31,64.6,,2,month-to-month,electronic check,dsl,South,medium,0
+C01274,29,18.0,536.38,1,one-year,electronic check,none,North,medium,0
+C01275,5,,313.89,2,month-to-month,electronic check,fibre,West,medium,0
+C01276,9,47.9,433.89,0,month-to-month,electronic check,dsl,East,high,0
+C01277,1,63.2,62.45,1,month-to-month,bank transfer,dsl,South,,0
+C01278,5,69.8,338.1,0,month-to-month,bank transfer,dsl,West,high,0
+C01279,31,96.57,3019.31,2,two-year,bank transfer,fibre,North,high,0
+C01280,31,61.36,1949.87,2,one-year,card,dsl,South,medium,0
+C01281,47,24.01,1157.03,2,month-to-month,electronic check,none,East,high,0
+C01282,10,89.54,882.53,0,month-to-month,card,fibre,North,medium,0
+C01283,25,18.0,450.84,1,month-to-month,card,none,East,low,0
+C01284,39,57.86,2316.06,3,one-year,card,fibre,West,low,0
+C01285,47,85.24,3827.8,2,two-year,card,fibre,East,medium,0
+C01286,62,67.93,4031.35,1,two-year,electronic check,fibre,North,high,0
+C01287,15,54.22,803.23,2,month-to-month,electronic check,dsl,East,low,1
+C01288,18,56.44,987.83,1,month-to-month,bank transfer,dsl,South,medium,1
+C01289,7,,573.58,3,month-to-month,card,fibre,East,medium,1
+C01290,42,66.25,2669.46,0,one-year,bank transfer,dsl,East,medium,0
+C01291,4,89.98,363.23,0,month-to-month,bank transfer,fibre,North,medium,1
+C01292,41,82.34,3433.92,0,one-year,electronic check,fibre,North,,0
+C01293,72,,1459.79,1,one-year,electronic check,none,North,high,0
+C01294,5,56.29,285.69,1,month-to-month,bank transfer,dsl,North,high,0
+C01295,24,47.85,1136.5,4,month-to-month,bank transfer,dsl,South,low,0
+C01296,25,52.64,1373.24,0,month-to-month,mailed check,dsl,North,medium,1
+C01297,1,56.42,57.7,1,month-to-month,electronic check,none,West,high,0
+C01298,20,82.19,1648.35,2,month-to-month,bank transfer,fibre,West,low,1
+C01299,31,85.4,2569.79,1,one-year,bank transfer,fibre,North,high,0
+C01300,11,71.53,798.55,3,month-to-month,card,fibre,South,medium,1
+C01301,38,67.24,2578.56,3,month-to-month,mailed check,dsl,East,high,0
+C01302,25,64.12,1632.39,2,one-year,bank transfer,dsl,East,medium,0
+C01303,72,64.21,4753.09,3,one-year,card,dsl,East,low,0
+C01304,13,82.58,1118.1,1,month-to-month,mailed check,fibre,West,,1
+C01305,31,92.41,2993.35,2,two-year,electronic check,fibre,East,medium,0
+C01306,32,70.26,2277.59,0,two-year,card,dsl,East,medium,1
+C01307,49,28.4,1456.44,2,one-year,card,none,East,low,0
+C01308,44,78.62,3601.6,1,one-year,card,fibre,East,medium,0
+C01309,22,90.73,1896.78,2,month-to-month,electronic check,fibre,South,medium,0
+C01310,32,69.15,2243.25,6,two-year,card,fibre,East,low,1
+C01311,18,71.38,1243.53,2,month-to-month,,fibre,West,medium,0
+C01312,72,79.36,5596.89,2,two-year,mailed check,fibre,South,medium,0
+C01313,44,59.1,2547.74,2,one-year,bank transfer,fibre,North,medium,0
+C01314,5,64.93,324.1,0,month-to-month,electronic check,dsl,East,high,0
+C01315,27,68.45,1757.75,5,month-to-month,card,fibre,West,low,1
+C01316,19,74.34,1375.14,1,one-year,card,fibre,West,high,0
+C01317,25,77.44,1844.84,3,one-year,electronic check,fibre,East,medium,1
+C01318,43,25.47,1111.7,1,month-to-month,card,none,West,high,0
+C01319,46,75.88,3626.36,2,one-year,card,fibre,South,low,0
+C01320,57,79.19,4738.52,2,two-year,bank transfer,fibre,South,,0
+C01321,19,79.28,1498.57,1,month-to-month,card,fibre,South,medium,1
+C01322,36,49.64,1744.18,0,month-to-month,bank transfer,dsl,South,medium,0
+C01323,6,18.0,111.81,1,month-to-month,electronic check,none,East,high,0
+C01324,68,92.98,6078.05,3,one-year,,fibre,West,medium,1
+C01325,28,54.75,1605.7,5,month-to-month,electronic check,fibre,South,low,1
+C01326,32,77.53,2534.26,0,two-year,,fibre,North,high,0
+C01327,30,49.37,1481.68,3,month-to-month,bank transfer,dsl,West,medium,0
+C01328,33,30.03,951.02,2,one-year,,none,West,low,1
+C01329,15,62.55,893.04,3,month-to-month,bank transfer,fibre,West,low,0
+C01330,31,74.0,2304.22,4,month-to-month,card,fibre,South,low,0
+C01331,26,53.77,1385.98,1,one-year,mailed check,dsl,East,medium,0
+C01332,1,67.84,70.16,1,month-to-month,card,dsl,East,,0
+C01333,58,83.99,4940.74,2,month-to-month,card,fibre,West,medium,0
+C01334,72,65.8,4705.34,1,two-year,card,fibre,West,medium,0
+C01335,57,74.15,4110.75,0,two-year,bank transfer,fibre,West,low,0
+C01336,58,65.63,3799.09,2,two-year,bank transfer,dsl,South,medium,0
+C01337,29,40.59,1137.44,1,month-to-month,bank transfer,dsl,North,medium,0
+C01338,72,54.06,3957.33,0,one-year,mailed check,dsl,North,medium,0
+C01339,32,54.89,1775.05,1,two-year,card,dsl,West,low,0
+C01340,1,75.37,77.71,2,month-to-month,bank transfer,fibre,West,medium,1
+C01341,6,112.35,670.7,5,month-to-month,bank transfer,fibre,North,low,0
+C01342,46,75.05,3375.88,4,two-year,electronic check,fibre,South,medium,0
+C01343,26,30.4,816.99,0,month-to-month,card,none,North,medium,0
+C01344,31,45.8,1446.92,4,one-year,,dsl,South,low,0
+C01345,50,86.33,4405.73,2,two-year,bank transfer,fibre,East,low,0
+C01346,29,90.45,2630.42,2,one-year,electronic check,fibre,East,low,0
+C01347,12,47.94,596.91,2,month-to-month,electronic check,dsl,South,medium,0
+C01348,8,54.34,,0,month-to-month,electronic check,dsl,South,medium,1
+C01349,17,44.26,745.02,3,month-to-month,electronic check,dsl,East,,1
+C01350,2,66.27,136.47,3,month-to-month,bank transfer,fibre,East,low,1
+C01351,20,37.44,721.32,1,one-year,card,none,North,medium,0
+C01352,42,48.35,2093.27,2,two-year,card,dsl,North,,0
+C01353,8,26.04,205.25,1,month-to-month,card,dsl,South,low,0
+C01354,8,76.18,586.62,2,month-to-month,bank transfer,dsl,South,medium,0
+C01355,72,18.0,1241.46,0,two-year,bank transfer,none,West,medium,0
+C01356,72,22.04,1641.31,0,month-to-month,bank transfer,none,West,medium,0
+C01357,17,74.69,1305.11,0,month-to-month,electronic check,dsl,East,medium,0
+C01358,3,,229.92,0,month-to-month,bank transfer,fibre,North,low,1
+C01359,46,78.04,3452.12,1,one-year,electronic check,fibre,North,low,0
+C01360,15,,588.64,1,month-to-month,electronic check,dsl,South,high,0
+C01361,44,,1512.04,0,one-year,bank transfer,dsl,East,high,0
+C01362,18,78.0,1436.72,0,month-to-month,bank transfer,fibre,East,high,1
+C01363,20,84.35,1639.02,0,one-year,electronic check,fibre,North,high,0
+C01364,19,28.67,529.27,1,month-to-month,electronic check,none,West,low,0
+C01365,19,19.22,348.1,2,month-to-month,bank transfer,none,South,low,0
+C01366,65,25.24,1656.49,0,month-to-month,bank transfer,none,East,medium,0
+C01367,43,57.95,2538.94,2,month-to-month,electronic check,fibre,North,high,0
+C01368,72,60.52,4424.32,5,month-to-month,electronic check,dsl,West,low,0
+C01369,51,56.94,2923.86,2,month-to-month,card,dsl,East,medium,1
+C01370,2,103.68,217.02,1,month-to-month,bank transfer,fibre,North,medium,1
+C01371,1,80.09,79.87,3,month-to-month,mailed check,fibre,South,medium,1
+C01372,68,18.0,1268.08,1,two-year,card,none,South,medium,0
+C01373,27,79.39,2174.83,2,month-to-month,mailed check,fibre,North,,0
+C01374,32,51.07,1566.28,1,two-year,card,dsl,West,low,0
+C01375,33,60.22,2048.88,0,two-year,bank transfer,dsl,West,high,0
+C01376,23,55.32,1283.1,1,month-to-month,bank transfer,dsl,West,medium,0
+C01377,29,64.88,1910.41,2,one-year,card,fibre,South,low,0
+C01378,55,35.37,1883.14,4,two-year,mailed check,dsl,East,medium,0
+C01379,26,83.15,2148.39,2,one-year,bank transfer,fibre,South,medium,0
+C01380,5,71.6,371.62,1,month-to-month,mailed check,dsl,South,high,0
+C01381,59,80.95,4640.14,1,month-to-month,card,fibre,East,high,0
+C01382,7,64.76,430.66,1,month-to-month,mailed check,dsl,South,low,1
+C01383,43,67.15,2817.43,0,month-to-month,,dsl,West,medium,0
+C01384,37,83.2,3074.57,4,two-year,electronic check,fibre,North,low,0
+C01385,30,70.23,2174.59,3,two-year,card,fibre,North,medium,0
+C01386,1,57.34,58.16,1,month-to-month,electronic check,dsl,West,low,1
+C01387,31,94.48,3051.62,1,one-year,bank transfer,fibre,West,medium,0
+C01388,22,86.36,1891.48,3,month-to-month,mailed check,fibre,West,medium,1
+C01389,32,63.98,2025.01,0,two-year,bank transfer,dsl,South,high,0
+C01390,9,19.45,,2,month-to-month,card,none,South,medium,0
+C01391,40,52.57,2043.51,2,two-year,card,dsl,North,medium,0
+C01392,40,78.58,3217.41,2,two-year,electronic check,fibre,South,low,0
+C01393,28,24.38,653.99,1,month-to-month,mailed check,none,East,high,1
+C01394,9,69.02,605.2,4,month-to-month,card,dsl,South,low,1
+C01395,46,51.83,2476.18,3,two-year,electronic check,fibre,South,medium,0
+C01396,15,80.37,1214.82,2,month-to-month,,fibre,North,low,0
+C01397,9,79.05,679.19,1,month-to-month,card,fibre,South,low,0
+C01398,32,63.54,2074.81,4,two-year,card,fibre,East,medium,0
+C01399,24,63.06,1514.45,1,one-year,electronic check,dsl,East,low,0
+C01400,1,71.31,73.84,4,month-to-month,,fibre,East,low,1
+C01401,10,50.72,516.45,0,month-to-month,card,dsl,West,high,1
+C01402,21,102.19,2039.64,2,month-to-month,,fibre,North,medium,1
+C01403,47,92.12,4202.24,4,two-year,bank transfer,fibre,South,medium,0
+C01404,38,86.89,3221.9,4,month-to-month,mailed check,fibre,East,low,0
+C01405,15,59.57,911.62,0,month-to-month,mailed check,dsl,South,low,0
+C01406,5,53.02,265.35,0,month-to-month,electronic check,dsl,West,high,0
+C01407,35,103.99,3729.71,4,two-year,bank transfer,fibre,North,medium,1
+C01408,23,89.63,2064.14,2,month-to-month,card,fibre,North,,1
+C01409,32,71.01,2233.1,3,two-year,bank transfer,fibre,South,medium,0
+C01410,20,38.2,733.72,3,one-year,card,dsl,South,low,1
+C01411,72,86.8,6063.75,2,two-year,electronic check,fibre,West,medium,0
+C01412,42,54.33,2259.22,0,two-year,card,dsl,South,medium,0
+C01413,41,62.85,2590.11,1,two-year,bank transfer,fibre,South,medium,0
+C01414,48,85.14,4265.98,2,two-year,card,fibre,North,medium,0
+C01415,42,51.77,2117.75,2,month-to-month,card,dsl,South,medium,0
+C01416,51,61.37,3181.85,0,one-year,card,dsl,East,high,0
+C01417,12,85.3,988.03,2,month-to-month,electronic check,fibre,East,medium,1
+C01418,24,18.0,441.23,1,month-to-month,electronic check,none,East,medium,1
+C01419,42,87.59,3499.01,1,two-year,card,fibre,South,high,0
+C01420,71,74.03,5338.08,1,two-year,mailed check,fibre,North,low,0
+C01421,38,74.81,2747.04,1,one-year,mailed check,fibre,North,low,0
+C01422,17,48.61,799.95,1,month-to-month,bank transfer,dsl,North,medium,0
+C01423,17,68.57,1172.56,1,month-to-month,electronic check,dsl,East,medium,0
+C01424,2,76.63,151.35,2,month-to-month,bank transfer,fibre,West,low,1
+C01425,42,41.47,1736.74,3,month-to-month,card,none,West,low,0
+C01426,55,76.4,4121.7,1,month-to-month,bank transfer,dsl,South,high,1
+C01427,4,18.0,75.26,2,month-to-month,card,none,North,low,0
+C01428,1,19.95,19.53,0,month-to-month,mailed check,dsl,East,high,0
+C01429,28,37.53,1055.26,0,one-year,mailed check,none,North,high,0
+C01430,9,50.9,474.33,0,month-to-month,electronic check,dsl,East,medium,0
+C01431,47,69.61,3325.38,3,two-year,electronic check,fibre,South,medium,0
+C01432,22,72.94,1576.24,0,one-year,electronic check,fibre,West,high,0
+C01433,7,50.02,351.98,0,month-to-month,mailed check,dsl,East,medium,1
+C01434,13,95.57,1190.6,1,month-to-month,card,fibre,East,medium,0
+C01435,2,56.92,114.36,0,month-to-month,card,dsl,South,high,0
+C01436,34,95.4,3221.35,4,two-year,electronic check,fibre,West,medium,0
+C01437,25,60.93,1562.54,1,month-to-month,bank transfer,dsl,East,high,0
+C01438,2,76.29,157.89,2,month-to-month,bank transfer,fibre,East,low,1
+C01439,72,20.32,,2,two-year,,none,South,medium,0
+C01440,50,86.74,4155.51,0,two-year,electronic check,fibre,South,low,0
+C01441,36,89.85,3199.2,0,month-to-month,card,fibre,West,high,1
+C01442,3,66.96,201.57,1,month-to-month,card,dsl,South,medium,0
+C01443,7,51.86,358.55,2,month-to-month,card,dsl,North,medium,0
+C01444,30,57.1,1735.02,3,month-to-month,bank transfer,dsl,South,low,0
+C01445,11,32.01,352.31,1,month-to-month,mailed check,none,South,medium,0
+C01446,72,75.39,5665.08,3,one-year,bank transfer,fibre,South,low,0
+C01447,54,,2214.27,2,two-year,electronic check,dsl,North,high,0
+C01448,72,70.32,4851.66,2,month-to-month,electronic check,fibre,North,high,0
+C01449,23,52.11,1174.79,0,one-year,bank transfer,dsl,South,high,1
+C01450,49,87.95,4355.19,2,month-to-month,electronic check,fibre,South,,1
+C01451,33,95.11,3062.06,4,two-year,electronic check,fibre,North,high,0
+C01452,50,38.73,1891.76,1,one-year,electronic check,dsl,South,medium,0
+C01453,46,47.83,2164.88,1,two-year,card,dsl,South,medium,0
+C01454,30,75.71,2327.21,1,two-year,card,fibre,North,low,0
+C01455,1,34.54,36.06,2,month-to-month,mailed check,none,South,,1
+C01456,23,48.66,1102.43,1,month-to-month,electronic check,dsl,South,medium,0
+C01457,4,74.84,290.24,1,month-to-month,mailed check,fibre,North,medium,1
+C01458,4,38.06,151.03,3,month-to-month,mailed check,dsl,West,low,0
+C01459,72,85.8,6086.07,1,two-year,card,fibre,North,medium,0
+C01460,3,78.06,245.66,3,month-to-month,electronic check,fibre,East,medium,1
+C01461,28,47.15,1315.43,2,one-year,bank transfer,dsl,East,medium,1
+C01462,6,76.89,469.61,4,month-to-month,electronic check,fibre,West,low,1
+C01463,30,93.52,2921.69,1,month-to-month,card,fibre,East,medium,0
+C01464,37,42.94,1609.29,0,month-to-month,,dsl,East,low,0
+C01465,28,69.9,1908.15,1,one-year,electronic check,fibre,West,low,0
+C01466,42,70.03,2972.85,0,one-year,electronic check,dsl,West,,0
+C01467,4,55.91,221.45,1,month-to-month,electronic check,dsl,North,medium,1
+C01468,43,88.04,3756.32,2,month-to-month,bank transfer,fibre,West,medium,0
+C01469,19,59.82,1191.06,1,one-year,bank transfer,dsl,South,low,0
+C01470,33,79.58,2567.99,0,month-to-month,mailed check,fibre,North,medium,0
+C01471,44,50.82,2229.13,1,two-year,bank transfer,dsl,East,high,0
+C01472,15,89.98,1303.79,2,month-to-month,bank transfer,fibre,West,medium,1
+C01473,28,38.95,1055.54,1,month-to-month,,none,North,medium,0
+C01474,5,93.01,469.86,2,month-to-month,bank transfer,fibre,North,low,0
+C01475,18,40.77,752.28,2,month-to-month,electronic check,dsl,West,low,1
+C01476,13,95.66,1260.55,2,month-to-month,bank transfer,fibre,East,medium,1
+C01477,17,75.7,1264.93,5,month-to-month,electronic check,fibre,North,low,1
+C01478,39,45.94,1712.76,1,two-year,mailed check,dsl,West,medium,1
+C01479,2,52.97,105.62,0,month-to-month,mailed check,dsl,South,medium,1
+C01480,40,34.97,1399.4,2,month-to-month,electronic check,none,South,low,0
+C01481,15,86.49,1332.46,0,month-to-month,bank transfer,fibre,South,,0
+C01482,8,76.94,624.16,1,month-to-month,electronic check,fibre,East,high,1
+C01483,41,90.05,3829.12,1,one-year,electronic check,fibre,North,medium,0
+C01484,4,81.68,335.97,4,month-to-month,electronic check,fibre,South,low,1
+C01485,71,18.12,,1,one-year,electronic check,none,South,low,0
+C01486,2,18.0,36.48,0,month-to-month,electronic check,none,North,medium,1
+C01487,45,29.92,1379.69,2,two-year,electronic check,none,West,medium,0
+C01488,55,79.01,4544.09,1,month-to-month,electronic check,fibre,North,medium,0
+C01489,72,63.49,4535.78,0,two-year,,fibre,West,high,0
+C01490,5,65.17,330.68,0,month-to-month,bank transfer,dsl,North,medium,0
+C01491,1,74.24,73.44,5,month-to-month,electronic check,fibre,South,medium,0
+C01492,40,74.11,3034.9,3,two-year,card,dsl,North,low,0
+C01493,22,,1446.77,2,one-year,mailed check,fibre,South,low,1
+C01494,29,77.83,2351.69,2,one-year,electronic check,fibre,East,medium,1
+C01495,4,18.0,69.53,1,month-to-month,card,none,North,medium,0
+C01496,19,68.29,1259.12,3,one-year,electronic check,fibre,East,low,0
+C01497,35,19.16,687.7,3,two-year,electronic check,none,West,medium,0
+C01498,72,101.25,7385.51,1,one-year,electronic check,fibre,South,medium,0
+C01499,2,81.72,170.06,3,month-to-month,bank transfer,fibre,North,low,1
+C01500,24,70.5,1660.5,2,one-year,mailed check,fibre,East,low,0
+C01501,28,58.06,1682.26,2,one-year,bank transfer,fibre,North,low,1
+C01502,53,34.34,1853.47,3,two-year,electronic check,dsl,North,low,0
+C01503,33,73.56,2353.55,1,month-to-month,card,fibre,South,medium,0
+C01504,15,47.4,684.44,1,month-to-month,electronic check,dsl,South,,0
+C01505,72,22.31,1638.88,0,two-year,electronic check,none,North,low,0
+C01506,4,52.73,203.72,1,month-to-month,electronic check,fibre,West,,1
+C01507,55,78.9,4467.22,0,one-year,bank transfer,fibre,East,low,0
+C01508,11,92.33,1021.43,0,month-to-month,electronic check,fibre,West,high,0
+C01509,24,74.47,1783.15,1,month-to-month,electronic check,dsl,South,high,0
+C01510,20,32.27,630.91,1,one-year,card,dsl,South,low,0
+C01511,15,70.38,1106.78,1,month-to-month,mailed check,fibre,West,low,1
+C01512,19,44.75,869.14,0,month-to-month,electronic check,dsl,North,medium,0
+C01513,45,56.75,2624.76,2,one-year,mailed check,dsl,South,low,0
+C01514,72,65.36,4832.37,2,one-year,mailed check,fibre,West,medium,0
+C01515,72,100.19,7274.29,4,two-year,mailed check,fibre,South,medium,0
+C01516,11,25.52,293.06,2,month-to-month,electronic check,none,West,medium,0
+C01517,7,78.52,554.25,2,month-to-month,electronic check,fibre,South,low,0
+C01518,39,99.11,3873.04,6,two-year,card,fibre,South,low,1
+C01519,65,79.81,5070.26,0,month-to-month,bank transfer,fibre,West,high,0
+C01520,4,59.8,233.98,1,month-to-month,electronic check,dsl,North,high,0
+C01521,72,70.99,5232.36,3,month-to-month,bank transfer,fibre,West,high,0
+C01522,24,63.55,1500.0,2,month-to-month,,fibre,North,medium,0
+C01523,38,72.68,2825.01,0,two-year,card,fibre,South,low,1
+C01524,57,81.24,4840.31,0,one-year,bank transfer,dsl,East,high,0
+C01525,25,87.6,2176.71,5,one-year,bank transfer,fibre,East,low,1
+C01526,23,28.29,624.47,0,month-to-month,bank transfer,none,West,high,0
+C01527,10,68.28,694.17,1,month-to-month,card,fibre,West,medium,0
+C01528,13,,1124.23,7,month-to-month,card,fibre,East,low,1
+C01529,25,18.0,462.92,0,month-to-month,electronic check,none,East,high,0
+C01530,19,36.2,689.56,2,month-to-month,bank transfer,dsl,South,,0
+C01531,1,73.29,73.21,3,month-to-month,card,fibre,West,low,1
+C01532,9,78.45,710.95,2,month-to-month,card,dsl,East,low,1
+C01533,30,77.77,2336.93,1,one-year,bank transfer,dsl,North,low,0
+C01534,22,74.59,1612.06,1,one-year,card,fibre,West,medium,0
+C01535,19,46.91,871.82,2,month-to-month,electronic check,dsl,South,low,0
+C01536,10,35.32,350.21,2,month-to-month,electronic check,dsl,South,medium,0
+C01537,41,80.94,3449.59,2,one-year,card,fibre,South,low,0
+C01538,18,56.94,987.55,3,one-year,electronic check,dsl,West,low,0
+C01539,72,89.47,6328.96,5,two-year,card,fibre,South,medium,0
+C01540,6,90.93,528.79,4,month-to-month,bank transfer,fibre,South,low,1
+C01541,39,22.63,876.14,2,two-year,,none,North,medium,0
+C01542,10,61.67,594.1,1,month-to-month,bank transfer,dsl,South,high,0
+C01543,6,46.59,286.83,0,month-to-month,mailed check,dsl,North,high,0
+C01544,10,61.44,590.04,1,month-to-month,card,dsl,East,medium,0
+C01545,11,48.91,546.9,1,month-to-month,bank transfer,dsl,West,,1
+C01546,1,85.51,83.52,2,month-to-month,bank transfer,fibre,South,medium,0
+C01547,8,29.54,235.66,2,month-to-month,bank transfer,none,West,medium,0
+C01548,19,55.83,1028.95,0,one-year,mailed check,dsl,West,low,0
+C01549,22,,1452.34,1,month-to-month,card,dsl,North,high,0
+C01550,19,36.16,717.84,1,month-to-month,mailed check,dsl,East,high,1
+C01551,16,67.22,1045.59,1,month-to-month,mailed check,fibre,East,high,0
+C01552,13,76.76,1043.1,1,month-to-month,electronic check,fibre,South,high,0
+C01553,14,62.68,862.19,3,month-to-month,bank transfer,fibre,West,high,0
+C01554,41,75.12,3097.74,1,month-to-month,bank transfer,fibre,South,high,0
+C01555,4,50.5,206.07,2,month-to-month,card,dsl,North,medium,0
+C01556,34,40.72,1342.84,0,one-year,electronic check,none,East,medium,0
+C01557,72,81.71,5850.62,2,two-year,bank transfer,fibre,North,,0
+C01558,11,92.35,971.95,0,month-to-month,mailed check,fibre,South,,0
+C01559,22,58.62,1315.05,0,one-year,electronic check,dsl,East,high,0
+C01560,38,73.57,2772.35,1,two-year,bank transfer,fibre,East,medium,0
+C01561,39,26.6,1078.03,1,two-year,electronic check,none,South,low,0
+C01562,28,88.75,2428.84,1,one-year,bank transfer,fibre,South,medium,0
+C01563,33,94.32,3244.41,1,two-year,,fibre,North,medium,0
+C01564,43,78.41,3250.6,0,two-year,card,fibre,South,,0
+C01565,38,18.0,691.32,1,one-year,mailed check,none,East,medium,0
+C01566,2,59.39,116.5,2,month-to-month,electronic check,fibre,East,medium,1
+C01567,4,51.08,197.82,2,month-to-month,mailed check,dsl,South,high,0
+C01568,8,51.95,398.72,2,month-to-month,bank transfer,fibre,North,high,0
+C01569,19,101.54,1959.29,2,month-to-month,electronic check,fibre,East,,1
+C01570,4,32.16,125.21,3,month-to-month,bank transfer,none,East,medium,0
+C01571,8,72.37,583.18,5,month-to-month,electronic check,fibre,North,low,1
+C01572,47,66.68,3284.21,1,one-year,card,fibre,East,,0
+C01573,68,,4494.85,1,one-year,bank transfer,dsl,North,medium,0
+C01574,36,18.0,617.86,4,two-year,,none,South,medium,0
+C01575,4,67.78,261.44,1,month-to-month,bank transfer,fibre,East,low,1
+C01576,7,70.81,476.8,2,month-to-month,bank transfer,fibre,East,medium,1
+C01577,37,26.37,972.11,0,one-year,electronic check,none,East,high,0
+C01578,32,62.45,2047.29,2,two-year,card,dsl,West,medium,0
+C01579,31,39.31,1193.8,2,two-year,electronic check,none,North,low,0
+C01580,72,67.54,4690.66,2,two-year,card,dsl,West,medium,0
+C01581,31,55.01,1729.32,1,two-year,electronic check,dsl,South,low,0
+C01582,17,92.25,1537.07,2,month-to-month,electronic check,fibre,South,high,1
+C01583,34,71.95,2464.69,1,month-to-month,bank transfer,fibre,West,medium,1
+C01584,9,33.15,311.29,2,month-to-month,electronic check,dsl,South,low,1
+C01585,18,46.95,827.47,2,one-year,mailed check,dsl,North,low,1
+C01586,51,18.0,919.15,3,two-year,electronic check,none,East,medium,0
+C01587,2,47.42,97.75,2,month-to-month,bank transfer,dsl,East,medium,1
+C01588,21,68.49,1465.86,3,one-year,bank transfer,fibre,East,low,0
+C01589,13,49.47,659.28,2,month-to-month,electronic check,dsl,North,medium,0
+C01590,13,62.44,833.85,2,month-to-month,card,dsl,East,low,0
+C01591,57,100.58,5755.94,3,month-to-month,electronic check,fibre,North,medium,0
+C01592,1,34.3,34.42,1,month-to-month,bank transfer,dsl,East,high,0
+C01593,39,39.55,1576.21,2,two-year,electronic check,dsl,East,low,0
+C01594,50,70.5,3594.67,7,month-to-month,card,fibre,West,low,0
+C01595,32,64.19,2089.01,0,two-year,card,dsl,West,high,0
+C01596,48,52.54,2492.2,0,one-year,mailed check,dsl,North,high,0
+C01597,2,18.0,37.18,1,month-to-month,mailed check,none,North,low,0
+C01598,11,88.6,948.89,1,month-to-month,mailed check,fibre,East,low,1
+C01599,49,,3145.37,0,two-year,mailed check,dsl,West,medium,0
+C01600,5,54.77,269.61,1,month-to-month,,dsl,North,low,0
+C01601,34,45.21,1499.3,0,two-year,card,dsl,South,,0
+C01602,13,83.24,1099.78,5,month-to-month,card,fibre,South,low,1
+C01603,24,22.2,518.47,1,one-year,bank transfer,none,South,medium,0
+C01604,61,22.11,1369.82,1,two-year,card,none,East,high,0
+C01605,20,48.85,978.29,4,month-to-month,mailed check,dsl,South,high,0
+C01606,1,66.1,63.8,0,month-to-month,card,dsl,South,medium,0
+C01607,35,83.0,2834.81,0,two-year,card,fibre,West,low,0
+C01608,8,,540.61,2,month-to-month,card,dsl,South,medium,0
+C01609,4,96.04,393.11,2,month-to-month,card,fibre,North,high,0
+C01610,32,60.51,1916.62,1,month-to-month,card,dsl,West,medium,0
+C01611,53,73.92,3813.09,0,month-to-month,electronic check,fibre,South,high,1
+C01612,20,67.48,1321.94,1,one-year,bank transfer,dsl,West,low,0
+C01613,25,85.59,2053.12,1,one-year,electronic check,fibre,West,medium,0
+C01614,2,86.24,164.29,1,month-to-month,mailed check,dsl,East,low,1
+C01615,33,,2029.44,1,two-year,electronic check,dsl,North,medium,0
+C01616,36,,3052.93,0,month-to-month,electronic check,fibre,West,medium,1
+C01617,5,83.49,401.79,4,month-to-month,bank transfer,fibre,East,medium,1
+C01618,39,53.81,2176.44,0,one-year,card,dsl,South,,0
+C01619,39,51.89,2056.8,0,two-year,bank transfer,dsl,West,medium,0
+C01620,41,83.53,3402.84,2,month-to-month,mailed check,fibre,West,low,0
+C01621,2,86.25,175.07,0,month-to-month,electronic check,fibre,West,medium,1
+C01622,6,93.85,587.59,0,month-to-month,card,fibre,North,medium,1
+C01623,41,58.71,2310.68,1,two-year,,dsl,East,medium,0
+C01624,6,49.45,289.1,1,month-to-month,electronic check,dsl,South,medium,0
+C01625,17,76.08,1339.96,3,month-to-month,electronic check,fibre,North,high,1
+C01626,23,39.12,925.01,2,one-year,electronic check,dsl,South,medium,1
+C01627,26,74.93,2044.47,0,month-to-month,mailed check,dsl,North,medium,1
+C01628,5,48.51,238.04,0,month-to-month,electronic check,dsl,North,,1
+C01629,55,91.61,5262.71,0,month-to-month,electronic check,fibre,East,low,0
+C01630,24,83.32,1968.42,2,month-to-month,card,fibre,East,medium,0
+C01631,19,83.64,1623.34,1,month-to-month,card,fibre,South,medium,1
+C01632,36,78.59,2937.53,2,two-year,mailed check,fibre,North,low,0
+C01633,19,70.55,1296.32,6,one-year,electronic check,fibre,West,low,0
+C01634,27,68.38,1791.91,1,one-year,bank transfer,fibre,East,,0
+C01635,35,100.74,3554.45,2,two-year,electronic check,fibre,East,low,0
+C01636,1,56.37,58.31,3,month-to-month,card,dsl,North,low,1
+C01637,18,93.5,1612.14,1,month-to-month,electronic check,fibre,North,medium,0
+C01638,59,71.62,4373.85,0,two-year,card,dsl,North,medium,0
+C01639,7,75.07,517.25,2,month-to-month,electronic check,fibre,North,low,1
+C01640,19,60.08,1130.82,1,one-year,bank transfer,dsl,West,low,0
+C01641,18,80.54,,2,one-year,card,fibre,South,medium,0
+C01642,72,41.11,3081.71,1,month-to-month,card,dsl,East,high,0
+C01643,46,52.77,2337.8,0,month-to-month,electronic check,dsl,West,medium,0
+C01644,3,87.05,263.09,4,month-to-month,card,fibre,West,low,0
+C01645,22,49.01,1040.28,1,month-to-month,card,dsl,South,medium,0
+C01646,5,76.1,396.81,6,month-to-month,electronic check,fibre,South,medium,0
+C01647,1,,54.5,2,month-to-month,bank transfer,dsl,South,medium,0
+C01648,30,105.34,3076.08,1,one-year,bank transfer,fibre,North,,0
+C01649,36,57.99,2045.42,3,two-year,card,fibre,West,medium,0
+C01650,34,86.02,2890.03,1,two-year,mailed check,fibre,East,medium,0
+C01651,8,21.96,174.02,1,month-to-month,card,none,South,medium,0
+C01652,4,72.31,298.42,1,month-to-month,card,fibre,East,medium,1
+C01653,4,51.67,208.01,4,month-to-month,bank transfer,dsl,East,low,0
+C01654,4,88.01,349.5,1,month-to-month,card,fibre,North,medium,1
+C01655,32,88.69,2900.36,1,two-year,bank transfer,fibre,East,medium,0
+C01656,1,82.23,81.88,5,month-to-month,card,fibre,West,low,1
+C01657,10,38.11,366.93,1,month-to-month,card,none,East,high,0
+C01658,49,70.23,3306.2,1,two-year,bank transfer,dsl,East,low,0
+C01659,1,89.8,88.24,3,month-to-month,mailed check,fibre,North,low,1
+C01660,19,48.45,930.02,2,month-to-month,card,dsl,East,low,1
+C01661,11,85.93,910.71,0,month-to-month,card,fibre,West,low,0
+C01662,18,85.99,1555.58,3,one-year,mailed check,fibre,South,medium,0
+C01663,20,45.21,883.37,1,one-year,mailed check,dsl,East,low,1
+C01664,3,61.17,187.1,0,month-to-month,electronic check,fibre,East,high,0
+C01665,34,55.73,1805.43,2,two-year,card,fibre,North,medium,0
+C01666,44,55.84,2449.35,1,two-year,bank transfer,dsl,South,low,0
+C01667,34,83.58,2714.49,0,two-year,card,fibre,West,medium,0
+C01668,8,18.0,141.56,2,month-to-month,card,none,West,medium,1
+C01669,46,67.55,2956.77,3,month-to-month,bank transfer,dsl,South,medium,0
+C01670,72,56.83,4079.12,2,two-year,electronic check,dsl,South,low,0
+C01671,13,71.19,950.18,3,month-to-month,bank transfer,dsl,West,medium,0
+C01672,22,29.45,622.0,1,one-year,electronic check,none,North,low,0
+C01673,22,67.2,1513.18,2,one-year,card,fibre,South,low,1
+C01674,9,60.5,549.08,0,month-to-month,bank transfer,dsl,North,,0
+C01675,27,63.04,1702.86,1,one-year,electronic check,dsl,North,high,0
+C01676,35,18.43,651.47,5,two-year,mailed check,none,East,low,0
+C01677,58,62.69,3576.35,4,one-year,bank transfer,fibre,South,low,0
+C01678,11,56.2,631.2,2,month-to-month,electronic check,dsl,West,low,0
+C01679,41,42.99,1811.88,3,two-year,card,dsl,West,medium,0
+C01680,68,93.45,6531.4,1,month-to-month,card,fibre,West,low,0
+C01681,35,20.11,687.62,0,one-year,electronic check,none,East,,0
+C01682,62,100.7,6339.49,1,two-year,card,fibre,East,medium,0
+C01683,29,54.51,1525.16,1,one-year,bank transfer,fibre,East,medium,0
+C01684,40,56.62,2263.76,1,month-to-month,bank transfer,dsl,West,medium,0
+C01685,5,97.15,461.59,4,month-to-month,card,fibre,North,low,1
+C01686,1,69.32,,1,month-to-month,card,fibre,East,low,1
+C01687,30,78.09,2373.56,5,month-to-month,bank transfer,fibre,North,low,1
+C01688,5,75.16,389.87,0,month-to-month,mailed check,fibre,South,medium,0
+C01689,34,46.79,1519.12,2,one-year,electronic check,dsl,South,low,0
+C01690,13,27.94,,0,month-to-month,bank transfer,none,East,high,1
+C01691,21,39.45,839.78,1,one-year,card,dsl,West,medium,0
+C01692,35,78.67,2872.51,2,two-year,electronic check,fibre,North,low,1
+C01693,60,61.19,3728.36,1,month-to-month,card,dsl,East,high,0
+C01694,72,22.42,1550.16,1,one-year,bank transfer,none,North,medium,0
+C01695,30,43.0,1244.43,0,one-year,electronic check,dsl,North,low,0
+C01696,6,92.36,561.68,3,month-to-month,bank transfer,fibre,South,low,1
+C01697,19,88.76,1638.48,2,month-to-month,card,fibre,East,low,1
+C01698,52,18.0,976.09,2,one-year,card,none,North,medium,0
+C01699,72,18.0,1350.52,3,two-year,card,none,South,low,0
+C01700,22,68.58,1576.45,3,one-year,bank transfer,fibre,West,low,0
+C01701,35,61.54,2109.3,1,two-year,mailed check,dsl,South,medium,0
+C01702,31,83.31,2638.64,1,two-year,card,fibre,West,low,0
+C01703,1,89.48,90.94,1,month-to-month,electronic check,fibre,West,high,1
+C01704,24,,1169.22,2,one-year,electronic check,dsl,South,medium,0
+C01705,1,43.9,42.87,3,month-to-month,card,dsl,East,low,1
+C01706,51,91.03,4506.4,2,two-year,card,fibre,East,medium,0
+C01707,8,18.36,144.98,1,month-to-month,bank transfer,none,South,high,0
+C01708,4,57.24,239.33,1,month-to-month,electronic check,dsl,South,,1
+C01709,45,61.4,2858.49,2,two-year,bank transfer,fibre,South,high,0
+C01710,15,48.16,707.48,0,month-to-month,electronic check,dsl,North,high,0
+C01711,24,67.11,1615.48,0,one-year,mailed check,dsl,North,medium,0
+C01712,18,46.4,809.5,2,month-to-month,electronic check,dsl,South,low,1
+C01713,72,34.77,2447.72,1,two-year,mailed check,none,West,low,0
+C01714,68,27.03,1758.09,2,two-year,electronic check,dsl,North,,0
+C01715,1,73.29,74.34,3,month-to-month,mailed check,fibre,North,medium,0
+C01716,26,77.94,2058.24,2,one-year,electronic check,fibre,South,low,1
+C01717,24,75.91,1883.51,4,month-to-month,electronic check,dsl,East,,0
+C01718,51,18.0,952.11,0,one-year,electronic check,none,North,high,0
+C01719,23,88.05,1956.31,1,one-year,mailed check,fibre,North,low,0
+C01720,61,92.68,5790.88,3,two-year,bank transfer,fibre,North,low,0
+C01721,15,46.34,669.71,2,month-to-month,electronic check,dsl,South,high,1
+C01722,39,75.52,2908.09,1,month-to-month,,fibre,North,medium,0
+C01723,33,81.7,2700.29,1,one-year,mailed check,fibre,West,low,1
+C01724,58,18.0,996.96,1,one-year,bank transfer,none,West,low,0
+C01725,3,49.54,143.52,0,month-to-month,electronic check,dsl,South,medium,1
+C01726,66,40.31,2599.57,0,month-to-month,electronic check,none,North,high,0
+C01727,1,61.27,58.99,0,month-to-month,mailed check,dsl,North,high,0
+C01728,58,78.12,4727.65,2,two-year,card,fibre,South,medium,0
+C01729,2,26.36,51.6,0,month-to-month,electronic check,none,South,high,0
+C01730,43,86.97,3740.15,1,month-to-month,electronic check,fibre,East,high,0
+C01731,32,89.27,2998.48,1,two-year,mailed check,fibre,South,medium,0
+C01732,17,18.32,313.52,2,month-to-month,mailed check,none,South,high,0
+C01733,30,,2183.11,6,one-year,,dsl,South,low,1
+C01734,5,40.8,212.77,0,month-to-month,electronic check,none,East,high,0
+C01735,68,88.13,5826.54,2,two-year,card,fibre,East,low,0
+C01736,30,18.0,522.69,0,one-year,mailed check,none,North,high,0
+C01737,47,42.76,2016.83,0,two-year,card,dsl,South,medium,0
+C01738,6,,304.25,1,month-to-month,electronic check,dsl,East,medium,0
+C01739,50,25.73,1324.71,0,month-to-month,electronic check,none,East,high,0
+C01740,37,58.78,2075.25,1,one-year,bank transfer,fibre,East,high,1
+C01741,10,60.94,616.57,0,month-to-month,card,dsl,East,high,0
+C01742,19,70.45,1366.75,0,month-to-month,card,dsl,East,medium,0
+C01743,24,61.92,1556.21,1,month-to-month,mailed check,dsl,South,medium,0
+C01744,34,18.0,590.32,0,two-year,bank transfer,none,East,low,0
+C01745,45,45.47,1994.23,1,one-year,,dsl,South,high,0
+C01746,22,83.6,1918.73,3,one-year,electronic check,fibre,South,medium,0
+C01747,37,78.16,2929.7,2,one-year,card,fibre,North,medium,0
+C01748,4,30.32,115.68,3,month-to-month,mailed check,none,South,high,0
+C01749,4,32.22,123.43,0,month-to-month,bank transfer,none,North,high,0
+C01750,14,38.1,548.63,3,month-to-month,card,none,North,medium,0
+C01751,24,66.41,1604.59,1,one-year,card,fibre,South,medium,0
+C01752,1,82.66,83.2,2,month-to-month,bank transfer,fibre,East,low,0
+C01753,59,50.64,3101.25,1,two-year,bank transfer,dsl,West,medium,0
+C01754,72,53.82,3774.71,2,two-year,electronic check,dsl,North,low,0
+C01755,23,90.37,2007.93,4,month-to-month,bank transfer,fibre,West,low,1
+C01756,67,66.68,4518.4,0,one-year,bank transfer,dsl,South,medium,0
+C01757,25,96.78,2512.03,0,month-to-month,card,fibre,East,low,1
+C01758,72,60.11,4226.32,2,two-year,card,dsl,East,medium,0
+C01759,40,78.68,3204.26,3,two-year,mailed check,fibre,West,medium,0
+C01760,44,76.97,3268.95,1,two-year,card,fibre,North,medium,0
+C01761,8,59.18,457.91,3,month-to-month,mailed check,fibre,West,low,1
+C01762,63,41.08,2691.95,1,month-to-month,bank transfer,none,North,medium,0
+C01763,13,51.14,639.42,1,month-to-month,card,dsl,West,low,0
+C01764,41,31.07,1213.28,0,month-to-month,card,none,East,medium,0
+C01765,2,63.15,129.77,0,month-to-month,card,dsl,South,high,0
+C01766,6,65.06,384.99,3,month-to-month,electronic check,fibre,South,,1
+C01767,46,68.92,3137.56,0,two-year,bank transfer,fibre,North,medium,0
+C01768,8,73.56,606.13,1,month-to-month,bank transfer,dsl,West,high,1
+C01769,6,83.49,484.91,4,month-to-month,electronic check,fibre,East,low,1
+C01770,39,48.03,1901.33,0,two-year,electronic check,dsl,West,medium,0
+C01771,22,53.48,1154.62,1,one-year,mailed check,dsl,East,high,0
+C01772,52,38.03,1899.3,2,one-year,mailed check,none,West,medium,0
+C01773,25,91.21,2323.0,1,one-year,electronic check,fibre,West,high,0
+C01774,48,37.41,1763.12,1,two-year,electronic check,dsl,South,,0
+C01775,21,99.61,2168.5,1,one-year,electronic check,fibre,East,medium,1
+C01776,32,91.59,3053.69,0,month-to-month,bank transfer,fibre,South,high,0
+C01777,24,53.17,1320.62,0,one-year,electronic check,dsl,West,high,0
+C01778,9,40.7,359.79,1,month-to-month,card,dsl,East,low,1
+C01779,31,67.65,2041.91,0,month-to-month,electronic check,dsl,South,medium,0
+C01780,5,85.72,,2,month-to-month,mailed check,fibre,East,medium,0
+C01781,33,18.0,591.21,2,month-to-month,card,none,South,low,0
+C01782,24,22.22,544.36,0,one-year,electronic check,none,East,high,0
+C01783,8,,764.29,2,month-to-month,mailed check,dsl,South,medium,1
+C01784,41,25.2,1010.23,1,month-to-month,card,none,South,high,0
+C01785,2,71.1,136.78,2,month-to-month,bank transfer,fibre,West,,1
+C01786,38,42.9,1650.55,1,two-year,mailed check,dsl,North,,0
+C01787,8,46.27,373.5,3,month-to-month,mailed check,none,West,low,1
+C01788,37,65.17,2355.88,0,one-year,card,dsl,North,medium,0
+C01789,44,71.89,3189.95,1,two-year,bank transfer,dsl,North,low,0
+C01790,15,57.98,894.95,0,month-to-month,electronic check,dsl,North,high,0
+C01791,35,70.05,2414.98,1,one-year,card,dsl,North,low,0
+C01792,22,44.82,960.63,2,month-to-month,bank transfer,dsl,North,low,0
+C01793,64,81.95,5362.81,3,month-to-month,card,fibre,West,low,1
+C01794,46,83.44,3947.96,2,one-year,card,fibre,West,high,0
+C01795,37,71.59,2769.16,0,two-year,electronic check,dsl,East,medium,0
+C01796,4,58.83,227.03,1,month-to-month,electronic check,dsl,North,medium,1
+C01797,29,47.49,1430.82,0,one-year,electronic check,dsl,West,low,0
+C01798,18,25.77,476.16,0,month-to-month,electronic check,none,East,,1
+C01799,40,34.88,1423.37,3,one-year,bank transfer,dsl,East,low,0
+C01800,30,52.15,1535.25,2,one-year,card,fibre,West,low,0
+C01801,31,89.98,2656.1,1,one-year,card,fibre,South,low,0
+C01802,27,50.5,1364.53,2,one-year,card,dsl,South,medium,0
+C01803,8,51.86,405.99,0,month-to-month,bank transfer,dsl,West,medium,0
+C01804,37,64.97,2353.37,2,one-year,card,dsl,East,high,0
+C01805,27,71.76,2020.28,1,one-year,card,dsl,East,medium,0
+C01806,31,61.41,1837.65,2,one-year,card,dsl,East,low,0
+C01807,35,78.14,2853.66,2,month-to-month,electronic check,dsl,West,medium,0
+C01808,57,61.03,3480.03,2,month-to-month,electronic check,dsl,South,low,1
+C01809,1,83.63,86.46,0,month-to-month,mailed check,fibre,North,medium,1
+C01810,15,57.88,849.41,0,month-to-month,electronic check,dsl,South,high,1
+C01811,6,39.57,240.6,2,month-to-month,electronic check,dsl,East,low,1
+C01812,21,91.47,1931.74,2,month-to-month,card,fibre,West,medium,1
+C01813,19,25.65,508.02,1,one-year,electronic check,dsl,South,low,0
+C01814,15,47.96,696.33,2,month-to-month,card,dsl,East,low,1
+C01815,34,55.28,1823.99,0,two-year,bank transfer,dsl,West,high,0
+C01816,14,45.52,665.89,0,month-to-month,bank transfer,dsl,West,medium,0
+C01817,19,74.58,1360.05,4,one-year,bank transfer,fibre,West,medium,0
+C01818,10,102.07,1034.45,3,month-to-month,card,fibre,West,medium,1
+C01819,1,93.25,89.15,2,month-to-month,electronic check,fibre,East,medium,1
+C01820,30,71.77,2062.02,1,one-year,electronic check,fibre,South,medium,0
+C01821,72,49.37,3589.17,2,two-year,electronic check,dsl,South,low,0
+C01822,4,39.68,159.54,0,month-to-month,electronic check,dsl,East,high,0
+C01823,5,63.46,319.62,1,month-to-month,bank transfer,dsl,North,high,0
+C01824,39,77.0,2995.09,1,one-year,card,fibre,East,medium,0
+C01825,60,56.4,3466.01,2,one-year,electronic check,fibre,East,low,0
+C01826,21,81.21,1789.35,1,month-to-month,bank transfer,fibre,East,medium,1
+C01827,27,60.27,1590.8,1,month-to-month,card,dsl,South,high,1
+C01828,1,91.56,89.94,3,month-to-month,bank transfer,fibre,East,medium,1
+C01829,38,54.12,2020.17,2,two-year,mailed check,dsl,North,medium,0
+C01830,6,,311.16,1,month-to-month,electronic check,dsl,East,low,1
+C01831,1,78.84,77.64,1,month-to-month,bank transfer,dsl,West,high,0
+C01832,56,80.08,4563.74,2,two-year,electronic check,fibre,West,high,0
+C01833,24,88.63,2115.61,3,month-to-month,bank transfer,fibre,West,medium,0
+C01834,1,48.53,49.05,1,month-to-month,bank transfer,dsl,South,high,0
+C01835,49,63.28,3202.74,1,month-to-month,card,dsl,North,low,0
+C01836,6,62.53,375.71,4,month-to-month,bank transfer,fibre,East,,0
+C01837,20,19.46,388.23,1,month-to-month,electronic check,none,North,low,0
+C01838,15,40.5,593.34,0,month-to-month,card,dsl,South,high,0
+C01839,40,47.74,1912.64,1,one-year,electronic check,dsl,East,medium,0
+C01840,20,95.01,1855.05,3,one-year,card,fibre,East,,0
+C01841,16,72.65,1202.34,2,month-to-month,electronic check,fibre,East,medium,0
+C01842,25,88.62,,2,one-year,electronic check,fibre,West,low,0
+C01843,1,98.21,,4,month-to-month,electronic check,fibre,North,low,1
+C01844,33,54.67,1757.2,3,two-year,electronic check,dsl,West,low,0
+C01845,12,66.93,805.94,1,month-to-month,,dsl,East,medium,0
+C01846,28,31.37,914.93,0,one-year,bank transfer,none,South,high,0
+C01847,11,26.4,284.61,4,month-to-month,electronic check,none,South,medium,0
+C01848,24,89.0,2085.67,4,one-year,electronic check,fibre,East,low,0
+C01849,18,102.08,1820.27,3,month-to-month,card,fibre,East,low,1
+C01850,19,47.35,941.73,0,one-year,card,dsl,South,medium,0
+C01851,5,18.0,93.11,3,month-to-month,bank transfer,none,North,low,1
+C01852,48,18.0,833.73,0,two-year,card,none,North,high,0
+C01853,49,91.93,4555.81,4,month-to-month,bank transfer,fibre,South,medium,1
+C01854,28,93.55,2695.85,1,one-year,bank transfer,fibre,South,high,0
+C01855,39,73.56,2945.73,5,two-year,electronic check,fibre,East,medium,0
+C01856,34,29.37,997.47,0,two-year,card,dsl,West,medium,0
+C01857,33,46.9,1583.58,3,month-to-month,electronic check,dsl,North,low,0
+C01858,12,61.57,745.02,1,month-to-month,bank transfer,dsl,South,low,0
+C01859,17,54.2,893.89,1,month-to-month,electronic check,dsl,North,medium,0
+C01860,4,82.16,314.05,2,month-to-month,card,fibre,West,medium,1
+C01861,30,48.72,1442.53,1,one-year,bank transfer,dsl,East,high,0
+C01862,35,92.17,3084.63,1,two-year,card,fibre,North,high,0
+C01863,63,59.12,3685.46,3,two-year,,dsl,South,medium,0
+C01864,10,62.04,640.8,3,month-to-month,bank transfer,dsl,East,low,0
+C01865,37,56.91,2178.17,0,one-year,mailed check,dsl,West,low,0
+C01866,54,86.29,4442.55,1,two-year,bank transfer,fibre,East,medium,0
+C01867,30,60.5,1736.87,2,two-year,electronic check,dsl,South,high,0
+C01868,8,43.86,356.84,3,month-to-month,card,dsl,East,low,0
+C01869,10,84.48,844.8,2,month-to-month,electronic check,fibre,East,low,1
+C01870,48,89.5,4145.36,3,two-year,bank transfer,fibre,East,high,0
+C01871,5,68.86,354.82,1,month-to-month,bank transfer,dsl,North,medium,1
+C01872,8,84.99,660.64,1,month-to-month,card,fibre,East,medium,0
+C01873,43,68.42,2817.95,1,two-year,card,fibre,North,low,0
+C01874,46,70.26,3312.6,3,two-year,card,fibre,West,low,0
+C01875,68,74.78,5140.02,6,two-year,mailed check,fibre,West,low,0
+C01876,28,57.27,1586.63,0,one-year,bank transfer,dsl,East,high,0
+C01877,2,53.53,109.12,0,month-to-month,card,dsl,East,medium,0
+C01878,32,66.52,2216.21,3,month-to-month,mailed check,fibre,North,low,0
+C01879,5,41.44,197.55,1,month-to-month,card,dsl,West,,1
+C01880,52,54.82,2887.04,2,one-year,bank transfer,fibre,South,high,0
+C01881,5,42.57,206.85,1,month-to-month,electronic check,fibre,South,high,0
+C01882,18,78.42,1407.91,2,one-year,mailed check,fibre,East,low,0
+C01883,13,82.84,1068.73,2,month-to-month,electronic check,dsl,West,low,1
+C01884,68,46.56,3131.25,1,one-year,bank transfer,none,South,medium,0
+C01885,9,,377.28,3,month-to-month,mailed check,dsl,East,low,0
+C01886,4,81.8,337.1,1,month-to-month,card,fibre,East,medium,0
+C01887,3,62.43,185.03,5,month-to-month,mailed check,fibre,South,low,0
+C01888,31,64.25,2068.87,2,month-to-month,electronic check,fibre,East,low,0
+C01889,49,40.63,1961.94,1,two-year,mailed check,dsl,West,medium,0
+C01890,10,77.29,799.16,4,month-to-month,card,fibre,South,low,1
+C01891,1,22.81,22.91,1,month-to-month,card,none,West,high,1
+C01892,33,58.03,1893.09,1,one-year,electronic check,dsl,West,medium,0
+C01893,49,62.96,3147.98,1,one-year,,dsl,West,low,0
+C01894,1,50.96,52.42,2,month-to-month,bank transfer,dsl,East,low,0
+C01895,6,80.43,481.74,4,month-to-month,mailed check,fibre,West,,1
+C01896,16,41.87,664.92,1,month-to-month,electronic check,dsl,East,medium,1
+C01897,54,63.87,3475.68,0,one-year,bank transfer,fibre,West,high,0
+C01898,72,37.01,2687.41,1,month-to-month,bank transfer,dsl,East,medium,0
+C01899,33,62.79,2056.63,4,month-to-month,card,dsl,West,low,1
+C01900,17,75.95,1324.42,0,month-to-month,card,fibre,West,low,1
+C01901,25,32.55,805.59,2,one-year,card,dsl,West,low,0
+C01902,5,79.24,394.34,1,month-to-month,electronic check,fibre,East,medium,1
+C01903,30,65.01,1970.84,2,two-year,electronic check,fibre,East,low,0
+C01904,10,74.92,785.67,1,month-to-month,bank transfer,dsl,West,medium,1
+C01905,40,48.05,1876.0,2,one-year,bank transfer,dsl,South,low,0
+C01906,10,33.18,322.91,1,month-to-month,electronic check,none,North,medium,1
+C01907,27,68.07,1778.51,0,month-to-month,,dsl,West,medium,0
+C01908,44,,1952.05,1,month-to-month,mailed check,dsl,East,high,0
+C01909,37,,2978.43,4,two-year,bank transfer,fibre,South,low,0
+C01910,43,86.64,3684.02,0,two-year,electronic check,fibre,East,medium,0
+C01911,10,26.39,256.09,1,month-to-month,,none,North,high,0
+C01912,7,84.33,613.4,1,month-to-month,bank transfer,fibre,South,medium,1
+C01913,67,39.04,2600.82,1,two-year,mailed check,dsl,South,high,0
+C01914,9,86.65,788.25,1,month-to-month,bank transfer,fibre,South,medium,1
+C01915,6,74.17,427.78,3,month-to-month,,fibre,West,medium,1
+C01916,61,59.19,3469.04,1,month-to-month,bank transfer,dsl,East,low,0
+C01917,47,66.04,2969.59,0,one-year,bank transfer,dsl,North,medium,0
+C01918,19,63.03,1181.68,1,one-year,bank transfer,dsl,South,high,0
+C01919,21,29.18,611.12,0,one-year,electronic check,none,North,medium,0
+C01920,31,87.71,2649.56,1,two-year,bank transfer,fibre,West,medium,0
+C01921,1,63.26,62.31,1,month-to-month,card,dsl,South,medium,0
+C01922,72,97.95,6704.19,2,month-to-month,mailed check,fibre,South,low,0
+C01923,28,54.59,1505.76,1,month-to-month,bank transfer,dsl,South,low,1
+C01924,14,81.97,1103.88,2,month-to-month,mailed check,fibre,North,medium,0
+C01925,32,66.18,2039.06,1,month-to-month,card,dsl,West,medium,1
+C01926,10,74.12,704.47,5,month-to-month,electronic check,fibre,East,low,0
+C01927,72,38.98,2861.68,0,month-to-month,bank transfer,dsl,South,high,0
+C01928,27,60.92,1715.78,0,one-year,electronic check,dsl,South,high,0
+C01929,11,22.53,250.84,1,month-to-month,card,none,East,medium,0
+C01930,17,65.51,1068.7,2,month-to-month,mailed check,fibre,North,low,0
+C01931,59,31.01,1919.18,0,one-year,bank transfer,none,West,medium,0
+C01932,20,97.17,2035.83,2,one-year,electronic check,fibre,East,medium,0
+C01933,31,60.44,1867.69,1,one-year,bank transfer,fibre,North,medium,0
+C01934,52,92.27,4609.89,1,two-year,card,fibre,East,medium,0
+C01935,19,49.56,962.43,1,one-year,bank transfer,fibre,West,low,0
+C01936,7,50.2,367.62,0,month-to-month,card,dsl,North,high,0
+C01937,17,102.09,1783.9,3,month-to-month,bank transfer,fibre,East,low,1
+C01938,47,76.06,3619.22,3,one-year,electronic check,fibre,East,medium,0
+C01939,47,56.08,2664.97,1,month-to-month,bank transfer,dsl,West,high,0
+C01940,8,64.15,537.73,2,month-to-month,card,dsl,East,low,1
+C01941,29,34.4,955.01,0,month-to-month,card,dsl,East,high,0
+C01942,72,55.87,3881.67,0,month-to-month,card,dsl,West,medium,0
+C01943,30,80.77,2503.26,0,month-to-month,card,fibre,West,medium,0
+C01944,23,77.35,1715.91,1,month-to-month,electronic check,dsl,South,low,1
+C01945,32,65.17,2061.1,0,two-year,card,fibre,East,medium,0
+C01946,55,75.42,4057.46,1,two-year,mailed check,fibre,North,low,0
+C01947,1,68.86,67.09,5,month-to-month,card,fibre,West,low,1
+C01948,30,42.59,1217.1,2,two-year,card,dsl,West,medium,0
+C01949,25,93.53,2353.74,3,month-to-month,mailed check,fibre,South,medium,1
+C01950,31,55.32,1697.98,1,two-year,card,dsl,East,medium,0
+C01951,36,73.33,2653.5,1,two-year,bank transfer,fibre,West,low,0
+C01952,35,48.79,1674.27,1,month-to-month,mailed check,dsl,North,medium,1
+C01953,19,48.24,957.02,1,one-year,mailed check,dsl,East,high,0
+C01954,32,74.31,2399.64,4,two-year,electronic check,fibre,West,low,0
+C01955,44,64.83,2984.08,1,two-year,card,fibre,West,low,0
+C01956,72,51.9,3680.75,0,two-year,electronic check,dsl,North,medium,0
+C01957,38,,1830.35,1,one-year,mailed check,dsl,West,medium,0
+C01958,53,70.91,3863.94,3,month-to-month,mailed check,fibre,West,low,0
+C01959,72,56.86,,0,two-year,card,dsl,North,,0
+C01960,72,82.88,5704.02,0,one-year,bank transfer,fibre,East,low,0
+C01961,54,73.32,4008.92,2,one-year,bank transfer,fibre,East,,0
+C01962,22,78.27,1749.67,0,month-to-month,card,fibre,West,high,0
+C01963,21,80.9,1638.71,2,one-year,electronic check,dsl,North,high,0
+C01964,22,105.45,2332.09,2,month-to-month,card,fibre,West,medium,0
+C01965,33,42.35,1361.66,0,one-year,bank transfer,dsl,East,medium,0
+C01966,16,69.03,1051.07,5,month-to-month,card,fibre,South,low,1
+C01967,33,42.29,1446.78,1,one-year,bank transfer,dsl,South,,1
+C01968,60,92.68,5556.18,3,two-year,,fibre,West,low,0
+C01969,38,50.22,1962.12,0,month-to-month,,dsl,West,medium,1
+C01970,1,57.88,59.17,2,month-to-month,card,dsl,South,medium,1
+C01971,8,103.96,872.74,1,month-to-month,mailed check,fibre,West,high,1
+C01972,47,79.87,3730.6,1,two-year,card,fibre,East,medium,0
+C01973,48,63.47,3024.49,1,one-year,bank transfer,dsl,North,low,0
+C01974,17,31.25,519.66,2,month-to-month,card,none,East,medium,0
+C01975,62,18.0,1129.97,3,month-to-month,card,none,West,low,0
+C01976,24,92.71,,2,month-to-month,card,fibre,North,low,1
+C01977,5,44.8,229.12,3,month-to-month,card,dsl,North,medium,0
+C01978,58,96.08,5492.68,1,two-year,card,fibre,North,low,0
+C01979,37,72.95,2599.51,3,one-year,bank transfer,fibre,East,medium,0
+C01980,10,49.26,510.45,2,month-to-month,electronic check,dsl,North,medium,1
+C01981,33,41.94,1429.42,2,two-year,card,dsl,West,high,1
+C01982,2,,86.51,0,month-to-month,bank transfer,dsl,North,medium,0
+C01983,33,49.88,1677.37,2,two-year,electronic check,dsl,North,,0
+C01984,9,50.82,457.03,0,month-to-month,card,fibre,South,medium,0
+C01985,39,52.2,2088.93,5,one-year,bank transfer,dsl,West,low,0
+C01986,64,73.9,4677.64,3,two-year,card,fibre,West,medium,0
+C01987,3,89.48,269.4,0,month-to-month,card,fibre,South,low,1
+C01988,19,85.08,1545.04,7,one-year,bank transfer,fibre,East,low,0
+C01989,36,18.0,626.93,1,two-year,mailed check,none,West,high,0
+C01990,27,49.5,1374.16,5,month-to-month,mailed check,dsl,West,low,1
+C01991,3,77.18,228.8,1,month-to-month,mailed check,fibre,North,medium,1
+C01992,43,72.83,2986.1,3,one-year,bank transfer,dsl,West,low,0
+C01993,25,18.0,435.04,1,month-to-month,card,none,West,medium,0
+C01994,29,18.0,517.39,4,month-to-month,,none,East,medium,1
+C01995,7,41.46,296.54,0,month-to-month,card,dsl,East,high,0
+C01996,27,62.22,1657.01,2,one-year,card,fibre,South,medium,0
+C01997,17,58.68,1022.02,0,month-to-month,card,dsl,West,high,0
+C01998,72,57.43,4283.02,1,month-to-month,bank transfer,dsl,West,medium,0
+C01999,38,40.39,1510.44,1,two-year,bank transfer,none,East,high,0
+C02000,17,67.5,1181.97,1,month-to-month,card,dsl,East,low,0

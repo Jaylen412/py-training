@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "logtools"
+version = "0.1.0"
+description = "Summarise web server access logs from the command line."
+requires-python = ">=3.11"
+
+# Requirement 9: add a [project.scripts] section here that creates a
+# `logtools` command which runs the `main` function in logtools/cli.py.
+
+[tool.setuptools.packages.find]
+where = ["src"]
