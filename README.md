@@ -487,7 +487,7 @@ Tick a module when it meets the [Definition of done](#definition-of-done).
 - [x] 22 Classification
 - [x] 23 Tree-Based Models
 - [x] 24 The Modelling Workflow
-- [ ] Project: End-to-End Classification
+- [x] Project: End-to-End Classification
 
 **Part 6: Unsupervised Learning**
 - [ ] 25 Clustering
